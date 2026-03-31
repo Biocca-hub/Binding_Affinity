@@ -1,14 +1,13 @@
 # 1. Data Investigation
 
-Per each method, the following aspects were investigated:
+For each method's training dataset, the following aspects were investigated:
 
-- the **source dataset(s)** used for training (e.g., SKEMPI versions, additional datasets)  
+- the **source dataset(s)** used for training (e.g., SKEMPI versions, additional datasets)
+- the **availability of curated subsets or named datasets** (when provided by the authors)    
 - the **composition of mutations**, including single, double, and multiple single residue variations (SRVs)  
-- the **number of protein–protein complexes and proteins** represented in the dataset  
+- the **number of protein complexes and proteins** represented in the dataset  
 - the **total number of mutations** available for each method  
-- the **distribution of mutations across UniProt identifiers per complex** (from 1 to 8, where C1: Single UniProt per Complex and so on) 
-- the **availability of curated subsets or named datasets** (when provided by the authors)  
-- the **presence of downloadable resources or supplementary datasets** associated with each method  
+- the **distribution UniProt identifiers per complex** (from 1 to 8, where C1: Single UniProt per Complex and so on) 
 
 These elements allow a consistent comparison of dataset size, diversity, and redundancy across methods.
 
