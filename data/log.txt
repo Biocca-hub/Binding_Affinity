@@ -1,5 +1,5 @@
-out.tsv exists and will be overwritten
-easy-search chain/ chain/ out.tsv tmp --alignment-type 1 --prefilter-mode 2 --format-output query,target,alntmscore,qcov,qtmscore,tcov,ttmscore 
+test.tsv exists and will be overwritten
+easy-search chain/1AO7_C.pdb chain/5E9D_H.pdb test.tsv tmp --alignment-type 1 --prefilter-mode 2 --format-output query,target,alntmscore,qcov,qtmscore,tcov,ttmscore 
 
 MMseqs Version:                    	10.941cd33
 Seq. id. threshold                 	0
@@ -80,87 +80,87 @@ Report mode                        	2
 Greedy best hits                   	false
 
 Alignment backtraces will be computed, since they were requested by output format.
-createdb chain/ tmp/3032696157422945233/query --gpu 0 --chain-name-mode 0 --db-extraction-mode 0 --distance-threshold 8 --write-mapping 0 --mask-bfactor-threshold 0 --coord-store-mode 2 --write-lookup 1 --input-format 0 --file-include '.*' --file-exclude '^$' --threads 96 -v 3 
+createdb chain/1AO7_C.pdb tmp/1627354877620698580/query --gpu 0 --chain-name-mode 0 --db-extraction-mode 0 --distance-threshold 8 --write-mapping 0 --mask-bfactor-threshold 0 --coord-store-mode 2 --write-lookup 1 --input-format 0 --file-include '.*' --file-exclude '^$' --threads 96 -v 3 
 
-Output file: tmp/3032696157422945233/query
-[=================================================================] 1.20K 0s 130ms
-Time for merging to query_ss: 0h 0m 0s 289ms
-Time for merging to query_h: 0h 0m 0s 274ms
-Time for merging to query_ca: 0h 0m 0s 272ms
-Time for merging to query: 0h 0m 0s 280ms
-Ignore 2 out of 1199.
-Too short: 2, incorrect: 0, not proteins: 0.
-Time for processing: 0h 0m 2s 630ms
-createdb chain/ tmp/3032696157422945233/target --gpu 0 --chain-name-mode 0 --db-extraction-mode 0 --distance-threshold 8 --write-mapping 0 --mask-bfactor-threshold 0 --coord-store-mode 2 --write-lookup 1 --input-format 0 --file-include '.*' --file-exclude '^$' --threads 96 -v 3 
+Output file: tmp/1627354877620698580/query
+[=================================================================] 1 0s 12ms
+Time for merging to query_ss: 0h 0m 0s 340ms
+Time for merging to query_h: 0h 0m 0s 344ms
+Time for merging to query_ca: 0h 0m 0s 340ms
+Time for merging to query: 0h 0m 0s 339ms
+Ignore 0 out of 1.
+Too short: 0, incorrect: 0, not proteins: 0.
+Time for processing: 0h 0m 2s 585ms
+createdb chain/5E9D_H.pdb tmp/1627354877620698580/target --gpu 0 --chain-name-mode 0 --db-extraction-mode 0 --distance-threshold 8 --write-mapping 0 --mask-bfactor-threshold 0 --coord-store-mode 2 --write-lookup 1 --input-format 0 --file-include '.*' --file-exclude '^$' --threads 96 -v 3 
 
-Output file: tmp/3032696157422945233/target
-[=================================================================] 1.20K 0s 129ms
-Time for merging to target_ss: 0h 0m 0s 267ms
-Time for merging to target_h: 0h 0m 0s 272ms
-Time for merging to target_ca: 0h 0m 0s 273ms
-Time for merging to target: 0h 0m 0s 278ms
-Ignore 2 out of 1199.
-Too short: 2, incorrect: 0, not proteins: 0.
-Time for processing: 0h 0m 2s 436ms
-Create directory tmp/3032696157422945233/search_tmp
-search tmp/3032696157422945233/query tmp/3032696157422945233/target tmp/3032696157422945233/result tmp/3032696157422945233/search_tmp -a 1 --alignment-type 1 --alignment-mode 3 -s 9.5 -k 6 --prefilter-mode 2 --remove-tmp-files 1 
+Output file: tmp/1627354877620698580/target
+[=================================================================] 1 0s 18ms
+Time for merging to target_ss: 0h 0m 0s 326ms
+Time for merging to target_h: 0h 0m 0s 330ms
+Time for merging to target_ca: 0h 0m 0s 329ms
+Time for merging to target: 0h 0m 0s 331ms
+Ignore 0 out of 1.
+Too short: 0, incorrect: 0, not proteins: 0.
+Time for processing: 0h 0m 2s 450ms
+Create directory tmp/1627354877620698580/search_tmp
+search tmp/1627354877620698580/query tmp/1627354877620698580/target tmp/1627354877620698580/result tmp/1627354877620698580/search_tmp -a 1 --alignment-type 1 --alignment-mode 3 -s 9.5 -k 6 --prefilter-mode 2 --remove-tmp-files 1 
 
-structurealign tmp/3032696157422945233/query tmp/3032696157422945233/target tmp/3032696157422945233/search_tmp/4711758375590069459/pref tmp/3032696157422945233/search_tmp/4711758375590069459/strualn --tmscore-threshold 0 --tmscore-threshold-mode 0 --lddt-threshold 0 --sort-by-structure-bits 0 --alignment-type 1 --exact-tmscore 0 --sub-mat 'aa:3di.out,nucl:3di.out' -a 1 --alignment-mode 1 --alignment-output-mode 0 --wrapped-scoring 0 -e 10 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 96 --compressed 0 -v 3 
+structurealign tmp/1627354877620698580/query tmp/1627354877620698580/target tmp/1627354877620698580/search_tmp/5564574424443167617/pref tmp/1627354877620698580/search_tmp/5564574424443167617/strualn --tmscore-threshold 0 --tmscore-threshold-mode 0 --lddt-threshold 0 --sort-by-structure-bits 0 --alignment-type 1 --exact-tmscore 0 --sub-mat 'aa:3di.out,nucl:3di.out' -a 1 --alignment-mode 1 --alignment-output-mode 0 --wrapped-scoring 0 -e 10 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --comp-bias-corr-scale 0.5 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca substitution:1.100,context:1.400 --pcb substitution:4.100,context:5.800 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --corr-score-weight 0 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --zdrop 40 --threads 96 --compressed 0 -v 3 
 
-[=================================================================] 1.20K 0s 780ms
-Time for merging to strualn: 0h 0m 0s 223ms
-Time for processing: 0h 0m 1s 750ms
-tmalign tmp/3032696157422945233/query tmp/3032696157422945233/target tmp/3032696157422945233/search_tmp/4711758375590069459/strualn tmp/3032696157422945233/search_tmp/4711758375590069459/aln --min-seq-id 0 -c 0 --cov-mode 0 --max-rejected 2147483647 --max-accept 2147483647 -a 1 --add-self-matches 0 --tmscore-threshold 0 --tmscore-threshold-mode 0 --tmalign-hit-order 0 --tmalign-fast 1 --db-load-mode 0 --threads 96 -v 3 
+[=================================================================] 1 0s 137ms
+Time for merging to strualn: 0h 0m 0s 113ms
+Time for processing: 0h 0m 0s 615ms
+tmalign tmp/1627354877620698580/query tmp/1627354877620698580/target tmp/1627354877620698580/search_tmp/5564574424443167617/strualn tmp/1627354877620698580/search_tmp/5564574424443167617/aln --min-seq-id 0 -c 0 --cov-mode 0 --max-rejected 2147483647 --max-accept 2147483647 -a 1 --add-self-matches 0 --tmscore-threshold 0 --tmscore-threshold-mode 0 --tmalign-hit-order 0 --tmalign-fast 1 --db-load-mode 0 --threads 96 -v 3 
 
-Query database: tmp/3032696157422945233/query
-Target database: tmp/3032696157422945233/target
-[=================================================================] 1.20K 48s 299ms
-Time for merging to aln: 0h 0m 0s 232ms
-Time for processing: 0h 1m 4s 923ms
+Query database: tmp/1627354877620698580/query
+Target database: tmp/1627354877620698580/target
+[=================================================================] 1 0s 10ms
+Time for merging to aln: 0h 0m 0s 114ms
+Time for processing: 0h 0m 0s 307ms
 Removing temporary files
-rmdb tmp/3032696157422945233/search_tmp/4711758375590069459/strualn -v 3 
+rmdb tmp/1627354877620698580/search_tmp/5564574424443167617/strualn -v 3 
 
-Time for processing: 0h 0m 0s 136ms
-mvdb tmp/3032696157422945233/search_tmp/4711758375590069459/aln tmp/3032696157422945233/result -v 3 
+Time for processing: 0h 0m 0s 34ms
+mvdb tmp/1627354877620698580/search_tmp/5564574424443167617/aln tmp/1627354877620698580/result -v 3 
 
-Time for processing: 0h 0m 0s 606ms
+Time for processing: 0h 0m 0s 550ms
 Removing temporary files
-rmdb tmp/3032696157422945233/search_tmp/4711758375590069459/strualn -v 3 
+rmdb tmp/1627354877620698580/search_tmp/5564574424443167617/strualn -v 3 
 
 Time for processing: 0h 0m 0s 1ms
-rmdb tmp/3032696157422945233/search_tmp/4711758375590069459/pref -v 3 
-
-Time for processing: 0h 0m 0s 13ms
-out.tsv exists and will be overwritten
-convertalis tmp/3032696157422945233/query tmp/3032696157422945233/target tmp/3032696157422945233/result out.tsv --sub-mat 'aa:3di.out,nucl:3di.out' --format-mode 0 --format-output query,target,alntmscore,qcov,qtmscore,tcov,ttmscore --translation-table 1 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --db-output 0 --db-load-mode 0 --search-type 0 --threads 96 --compressed 0 -v 3 --exact-tmscore 0 
-
-[=================================================================] 1.13K 3s 355ms
-Time for merging to out.tsv: 0h 0m 0s 285ms
-Time for processing: 0h 0m 4s 178ms
-rmdb tmp/3032696157422945233/result -v 3 
-
-Time for processing: 0h 0m 0s 126ms
-rmdb tmp/3032696157422945233/target -v 3 
-
-Time for processing: 0h 0m 0s 5ms
-rmdb tmp/3032696157422945233/target_h -v 3 
+rmdb tmp/1627354877620698580/search_tmp/5564574424443167617/pref -v 3 
 
 Time for processing: 0h 0m 0s 3ms
-rmdb tmp/3032696157422945233/target_ca -v 3 
+test.tsv exists and will be overwritten
+convertalis tmp/1627354877620698580/query tmp/1627354877620698580/target tmp/1627354877620698580/result test.tsv --sub-mat 'aa:3di.out,nucl:3di.out' --format-mode 0 --format-output query,target,alntmscore,qcov,qtmscore,tcov,ttmscore --translation-table 1 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --db-output 0 --db-load-mode 0 --search-type 0 --threads 96 --compressed 0 -v 3 --exact-tmscore 0 
 
-Time for processing: 0h 0m 0s 3ms
-rmdb tmp/3032696157422945233/target_ss -v 3 
+[=================================================================] 1 0s 0ms
+Time for merging to test.tsv: 0h 0m 0s 2ms
+Time for processing: 0h 0m 0s 51ms
+rmdb tmp/1627354877620698580/result -v 3 
 
-Time for processing: 0h 0m 0s 3ms
-rmdb tmp/3032696157422945233/query -v 3 
+Time for processing: 0h 0m 0s 110ms
+rmdb tmp/1627354877620698580/target -v 3 
 
-Time for processing: 0h 0m 0s 7ms
-rmdb tmp/3032696157422945233/query_h -v 3 
+Time for processing: 0h 0m 0s 6ms
+rmdb tmp/1627354877620698580/target_h -v 3 
 
 Time for processing: 0h 0m 0s 4ms
-rmdb tmp/3032696157422945233/query_ca -v 3 
+rmdb tmp/1627354877620698580/target_ca -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+rmdb tmp/1627354877620698580/target_ss -v 3 
 
 Time for processing: 0h 0m 0s 3ms
-rmdb tmp/3032696157422945233/query_ss -v 3 
+rmdb tmp/1627354877620698580/query -v 3 
+
+Time for processing: 0h 0m 0s 7ms
+rmdb tmp/1627354877620698580/query_h -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+rmdb tmp/1627354877620698580/query_ca -v 3 
+
+Time for processing: 0h 0m 0s 3ms
+rmdb tmp/1627354877620698580/query_ss -v 3 
 
 Time for processing: 0h 0m 0s 3ms
