@@ -1,0 +1,138 @@
+out.tsv exists and will be overwritten
+easy-search chain/ chain/ out.tsv tmp --alignment-type 1 --prefilter-mode 2 --format-output query,target,alntmscore,qcov,qtmscore,tcov,ttmscore 
+
+MMseqs Version:                    	10.941cd33
+Seq. id. threshold                 	0
+Coverage threshold                 	0
+Coverage mode                      	0
+Max reject                         	2147483647
+Max accept                         	2147483647
+Add backtrace                      	false
+TMscore threshold                  	0
+TMscore threshold mode             	0
+TMalign hit order                  	0
+TMalign fast                       	1
+Preload mode                       	0
+Threads                            	96
+Verbosity                          	3
+LDDT threshold                     	0
+Sort by structure bit score        	1
+Alignment type                     	1
+Exact TMscore                      	0
+Substitution matrix                	aa:3di.out,nucl:3di.out
+Alignment mode                     	3
+Alignment mode                     	0
+E-value threshold                  	10
+Min alignment length               	0
+Seq. id. mode                      	0
+Alternative alignments             	0
+Max sequence length                	65535
+Compositional bias                 	1
+Compositional bias                 	1
+Gap open cost                      	aa:10,nucl:10
+Gap extension cost                 	aa:1,nucl:1
+Compressed                         	0
+Seed substitution matrix           	aa:3di.out,nucl:3di.out
+Sensitivity                        	9.5
+k-mer length                       	6
+Target search mode                 	0
+k-score                            	seq:2147483647,prof:2147483647
+Max results per query              	1000
+Split database                     	0
+Split mode                         	2
+Split memory limit                 	0
+Diagonal scoring                   	true
+Exact k-mer matching               	0
+Mask residues                      	0
+Mask residues probability          	0.999995
+Mask lower case residues           	1
+Mask lower letter repeating N times	6
+Minimum diagonal score             	30
+Selected taxa                      	
+Spaced k-mers                      	1
+Spaced k-mer pattern               	
+Local temporary path               	
+Use GPU                            	0
+Use GPU server                     	0
+Wait for GPU server                	600
+Prefilter mode                     	2
+Exhaustive search mode             	false
+Search iterations                  	1
+Remove temporary files             	true
+MPI runner                         	
+Force restart with latest tmp      	false
+Cluster search                     	0
+Path to ProstT5                    	
+Chain name mode                    	0
+Createdb extraction mode           	0
+Interface distance threshold       	8
+Write mapping file                 	0
+Mask b-factor threshold            	0
+Coord store mode                   	2
+Write lookup file                  	1
+Input format                       	0
+File Inclusion Regex               	.*
+File Exclusion Regex               	^$
+Alignment format                   	0
+Format alignment output            	query,target,alntmscore,qcov,qtmscore,tcov,ttmscore
+Database output                    	false
+Report mode                        	2
+Greedy best hits                   	false
+
+Alignment backtraces will be computed, since they were requested by output format.
+search tmp/3032696157422945233/query tmp/3032696157422945233/target tmp/3032696157422945233/result tmp/3032696157422945233/search_tmp -a 1 --alignment-type 1 --alignment-mode 3 -s 9.5 -k 6 --prefilter-mode 2 --remove-tmp-files 1 
+
+tmalign tmp/3032696157422945233/query tmp/3032696157422945233/target tmp/3032696157422945233/search_tmp/6693464140382688919/strualn tmp/3032696157422945233/search_tmp/6693464140382688919/aln --min-seq-id 0 -c 0 --cov-mode 0 --max-rejected 2147483647 --max-accept 2147483647 -a 1 --add-self-matches 0 --tmscore-threshold 0 --tmscore-threshold-mode 0 --tmalign-hit-order 0 --tmalign-fast 1 --db-load-mode 0 --threads 96 -v 3 
+
+Query database: tmp/3032696157422945233/query
+Target database: tmp/3032696157422945233/target
+[=================================================================] 1.20K 47s 951ms
+Time for merging to aln: 0h 0m 0s 121ms
+Time for processing: 0h 1m 6s 222ms
+Removing temporary files
+rmdb tmp/3032696157422945233/search_tmp/6693464140382688919/strualn -v 3 
+
+Time for processing: 0h 0m 0s 64ms
+mvdb tmp/3032696157422945233/search_tmp/6693464140382688919/aln tmp/3032696157422945233/result -v 3 
+
+Time for processing: 0h 0m 0s 555ms
+Removing temporary files
+rmdb tmp/3032696157422945233/search_tmp/6693464140382688919/strualn -v 3 
+
+Time for processing: 0h 0m 0s 1ms
+rmdb tmp/3032696157422945233/search_tmp/6693464140382688919/pref -v 3 
+
+Time for processing: 0h 0m 0s 5ms
+out.tsv exists and will be overwritten
+convertalis tmp/3032696157422945233/query tmp/3032696157422945233/target tmp/3032696157422945233/result out.tsv --sub-mat 'aa:3di.out,nucl:3di.out' --format-mode 0 --format-output query,target,alntmscore,qcov,qtmscore,tcov,ttmscore --translation-table 1 --gap-open aa:10,nucl:10 --gap-extend aa:1,nucl:1 --db-output 0 --db-load-mode 0 --search-type 0 --threads 96 --compressed 0 -v 3 --exact-tmscore 0 
+
+[=================================================================] 1.13K 3s 223ms
+Time for merging to out.tsv: 0h 0m 0s 388ms
+Time for processing: 0h 0m 4s 367ms
+rmdb tmp/3032696157422945233/result -v 3 
+
+Time for processing: 0h 0m 0s 139ms
+rmdb tmp/3032696157422945233/target -v 3 
+
+Time for processing: 0h 0m 0s 6ms
+rmdb tmp/3032696157422945233/target_h -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+rmdb tmp/3032696157422945233/target_ca -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+rmdb tmp/3032696157422945233/target_ss -v 3 
+
+Time for processing: 0h 0m 0s 3ms
+rmdb tmp/3032696157422945233/query -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+rmdb tmp/3032696157422945233/query_h -v 3 
+
+Time for processing: 0h 0m 0s 4ms
+rmdb tmp/3032696157422945233/query_ca -v 3 
+
+Time for processing: 0h 0m 0s 3ms
+rmdb tmp/3032696157422945233/query_ss -v 3 
+
+Time for processing: 0h 0m 0s 3ms
