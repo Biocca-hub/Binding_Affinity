@@ -23,10 +23,10 @@ def make_df(file, dfname, delimitor):
 ################################################################################
 ############################# Making DF from datasets ##########################
 ################################################################################
-
-file_path='../Binding_Affinity/data/datasets/s4169.csv'
+'''
+file_path='../../data/datasets/s4169.csv'
 s4169=make_df(file_path, 's4169', '\t')
-file_path='../Binding_Affinity/data/datasets/skempi_v2.csv'
+file_path='../../data/datasets/skempi_v2.csv'
 skempi=make_df(file_path, 'skempi', ';')
 
 
@@ -229,6 +229,60 @@ print('There are ', len(unique_upids), '/325 uniprot ids in the dataset')
 
 print(s4169.head())
 
+'''
+################################################################################
+################################# Making final DF ##############################
+################################################################################
+file_path = 'metadata_28_04.tsv'
+metadata = make_df(file_path, 'metadata', '\t')
+file_path = 's4169_28_04.tsv'
+s4169 = make_df(file_path, 's4169', '\t')
+file_path = '../../data/datasets/skempi_v2.csv'
+skempi2 = make_df(file_path, 'skempi2', ';')
+
+dfs = [metadata, skempi2, s4169]
+df_names = ['metadata', 'skempi2','s4169']
+
+skempi_pdb = skempi2['#Pdb'].to_list()
+mutation_chain = skempi2['Mutation(s)_PDB'].to_list()
+skempi_chain_id = []
+
+for i in range(len(skempi_pdb)):
+  skempi_pdb[i] = skempi_pdb[i].split('_')[0]
+  skempi_chain_id.append(skempi_pdb[i].split('_')[0]+'_'+mutation_chain[i][1])
+
+skempi = pd.DataFrame({'PDB_ID':skempi_pdb,
+		       'Chain_ID': skempi_chain_id,
+		       'Location':skempi2['iMutation_Location(s)'],
+		       'DDG_method':skempi2['Method'],
+		       'PDB_mut': skempi2['Mutation(s)_PDB'],
+		       'Clean_mut':skempi2['Mutation(s)_cleaned'],
+		       'Affinity_M': skempi2['Affinity_mut_parsed'],
+		       'Affinity_WT':skempi2['Affinity_wt_parsed'],
+		       'Out_type':skempi2['Hold_out_type'],
+		       'Out_protein':skempi2['Hold_out_proteins'],
+		       'Skempi_v': skempi2['SKEMPI version']})
+
+dfs.append(skempi)
+df_names.append('skempi')
+
+s4943 = skempi.merge(s4169, left_on=['Chain_ID', 'PDB_mut'], right_on=['Chain_ID','mutation'], how='inner')
+
+dfs.append(s4943)
+df_names.append('s4943')
+
+for i in range(len(dfs)):
+  print(df_names[i], 'shape is:', dfs[i].shape)
+  print(df_names[i], 'column names are:', dfs[i].columns)
+  print(dfs[i].head(3))
+  print('\n\n\n')
+
+print(len(np.unique(s4943['Chain_ID'].to_list())))
+print(len(np.unique(s4943['Uniprot_ID'].to_list())))
+
+s4943.to_csv('s4943_28_04.tsv', sep='\t', index=False)
+
+'''
 ################################################################################
 ###################### SAVING METADATA AND 'DATA' TABLES #######################
 ################################################################################
@@ -238,9 +292,9 @@ print(s4169.head())
 metadata.to_csv('metadata_28_04.tsv', sep='\t', index=False)
 #out = Path('s4169_28/04.tsv')
 #out.parent.mkdir(parents=True, exist_ok=True)
-metadata.to_csv('s4169_28_04.tsv', sep='\t', index=False)
+s4169.to_csv('s4169_28_04.tsv', sep='\t', index=False)
 
-'''# Dictionary in which every PDB is a key linked to the amount of its occurrences
+# Dictionary in which every PDB is a key linked to the amount of its occurrences
 pdb_occurrences = s4169['pdb'].value_counts().to_dict()
 
 # Dictionary in which every chain is a key linked to the amount of its occurrences
