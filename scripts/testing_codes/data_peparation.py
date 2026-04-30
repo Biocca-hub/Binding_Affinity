@@ -240,19 +240,31 @@ s4169 = make_df(file_path, 's4169', '\t')
 file_path = '../../data/datasets/skempi_v2.csv'
 skempi2 = make_df(file_path, 'skempi2', ';')
 
+s4169_mutations = s4169['mutation'].to_list()
+s4169_chains = []
+s4169_pdb=s4169['pdb'].to_list()
+for i in range(len(s4169_mutations)):
+  s4169_chains.append(s4169_pdb[i]+'_'+s4169_mutations[i][1]+'_'+s4169_mutations[i])
+s4169['unique']=s4169_chains
+
 dfs = [metadata, skempi2, s4169]
 df_names = ['metadata', 'skempi2','s4169']
 
 skempi_pdb = skempi2['#Pdb'].to_list()
-mutation_chain = skempi2['Mutation(s)_PDB'].to_list()
+skempi_mutations = skempi2['Mutation(s)_PDB'].to_list()
 skempi_chain_id = []
 
 for i in range(len(skempi_pdb)):
   skempi_pdb[i] = skempi_pdb[i].split('_')[0]
-  skempi_chain_id.append(skempi_pdb[i].split('_')[0]+'_'+mutation_chain[i][1])
+  skempi_chain_id.append(skempi_pdb[i].split('_')[0]+'_'+skempi_mutations[i][1])
+
+skempi_uni = []
+for i in range(len(skempi_mutations)):
+  skempi_uni.append(skempi_pdb[i]+'_'+skempi_mutations[i][1]+'_'+skempi_mutations[i])
 
 skempi = pd.DataFrame({'PDB_ID':skempi_pdb,
 		       'Chain_ID': skempi_chain_id,
+		       'unique': skempi_uni,
 		       'Location':skempi2['iMutation_Location(s)'],
 		       'DDG_method':skempi2['Method'],
 		       'PDB_mut': skempi2['Mutation(s)_PDB'],
@@ -266,7 +278,23 @@ skempi = pd.DataFrame({'PDB_ID':skempi_pdb,
 dfs.append(skempi)
 df_names.append('skempi')
 
-s4943 = skempi.merge(s4169, left_on=['Chain_ID', 'PDB_mut'], right_on=['Chain_ID','mutation'], how='inner')
+s4943 = skempi.merge(s4169, left_on=['unique'], right_on=['unique'], how='inner')
+
+s4943 = pd.DataFrame({'PDB_ID': s4943['PDB_ID'],
+		      'Chain_ID': s4943['Chain_ID_x'],
+		      'Uniprot_ID': s4943['Uniprot_ID'],
+		      'Location': s4943['Location'],
+		      'DDG_method': s4943['DDG_method'],
+		      'DDG': s4943['actual'],
+		      'PDB_mut': s4943['PDB_mut'],
+		      'Clean_mut': s4943['Clean_mut'],
+		      'Affinity_M': s4943['Affinity_M'],
+		      'Affinity_WT': s4943['Affinity_WT'],
+		      'unique': s4943['unique'],
+		      'Out_type': s4943['Out_type'],
+		      'Out_protein': s4943['Out_protein'],
+    		      'Skempi_v': s4943['Skempi_v'],
+       	 	      'sampling_fold': s4943['sampling_fold']})
 
 dfs.append(s4943)
 df_names.append('s4943')
@@ -277,10 +305,14 @@ for i in range(len(dfs)):
   print(dfs[i].head(3))
   print('\n\n\n')
 
-print(len(np.unique(s4943['Chain_ID'].to_list())))
+print(len(np.unique(s4943['unique'].to_list())))
 print(len(np.unique(s4943['Uniprot_ID'].to_list())))
 
 s4943.to_csv('s4943_28_04.tsv', sep='\t', index=False)
+
+folds = s4943['sampling_fold'].value_counts().to_dict()
+print(folds)
+
 
 '''
 ################################################################################
