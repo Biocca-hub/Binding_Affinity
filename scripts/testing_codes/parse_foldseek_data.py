@@ -25,6 +25,11 @@ foldseek = make_df('../../data/out.tsv', 'foldseek', '\t')
 		    ############################################
 
 foldseek_parsed = foldseek[foldseek['TM-score']>=0.6].reset_index(drop=True)
+#print(foldseek_parsed.shape)
+foldseek_parsed = foldseek_parsed[foldseek_parsed['TM-Cov_1']>=0.6].reset_index(drop=True)
+#print(foldseek_parsed.shape)
+foldseek_parsed = foldseek_parsed[foldseek_parsed['TM-Cov_2']>=0.6].reset_index(drop=True)
+#print(foldseek_parsed.shape)
 
                     ############################################
                     ### GRAPH DATAFRAME: remove index column ###
@@ -32,8 +37,7 @@ foldseek_parsed = foldseek[foldseek['TM-score']>=0.6].reset_index(drop=True)
 
 graph_df = make_df('../../data/Chain_ID_graph.tsv', 'graph_df', '\t')
 
-del graph_df['Unnamed: 0']
-
+del graph_df['Unnamed: 0'] # removing index column
 
 #######################################################################################
                                 # CHEKING PAIRS IN DFs #
@@ -102,4 +106,5 @@ for pair in pair_tm:
 
 grafodemme = pd.DataFrame({'ID1':id1, 'ID2':id2, 'Edge_PDB': pdb, 'Edge_UP': up, 'TM-score': sim})
 print(grafodemme.head())
-grafodemme.to_csv('../../data/final_graph.tsv', sep = '\t')
+grafodemme.to_csv('../../data/final_graph_8maggio26_1.tsv', sep = '\t')
+
