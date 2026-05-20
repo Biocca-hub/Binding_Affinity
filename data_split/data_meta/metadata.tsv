@@ -1,0 +1,1200 @@
+PDB_ID	Oligomer_type	Experimental_method	Resolution(Å)	Chain_ID	Uniprot_ID	Covered_residues	Coverage
+3BT1	hetero_trimer	X-ray diffraction	2.8	A	P00749	132	0.324
+3BT1	hetero_trimer	X-ray diffraction	2.8	B	P04004	39	0.087
+3BT1	hetero_trimer	X-ray diffraction	2.8	U	Q03405	280	0.898
+1CHO	hetero_tetramer	X-ray diffraction	1.8	E	P00766	12	0.053
+1CHO	hetero_tetramer	X-ray diffraction	1.8	F	P00766	130	0.535
+1CHO	hetero_tetramer	X-ray diffraction	1.8	G	P00766	96	0.396
+1CHO	hetero_tetramer	X-ray diffraction	1.8	I	P68390	55	0.303
+1R0R	hetero_dimer	X-ray diffraction	1.1	E	P00780	273	0.783
+1R0R	hetero_dimer	X-ray diffraction	1.1	I	P68390	50	0.276
+3SGB	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+3SGB	hetero_dimer	X-ray diffraction	1.8	I	P68390	55	0.303
+1PPF	hetero_dimer	X-ray diffraction	1.8	E	P08246	217	0.908
+1PPF	hetero_dimer	X-ray diffraction	1.8	I	P68390	55	0.303
+1A22	hetero_dimer	X-ray diffraction	2.6	A	P01241	190	1.0
+1A22	hetero_dimer	X-ray diffraction	2.6	B	P10912	237	0.384
+1DAN	hetero_tetramer	X-ray diffraction	2.0	L	P08709	151	0.341
+1DAN	hetero_tetramer	X-ray diffraction	2.0	H	P08709	253	0.57
+1DAN	hetero_tetramer	X-ray diffraction	2.0	T	P13726	79	0.304
+1DAN	hetero_tetramer	X-ray diffraction	2.0	U	P13726	120	0.46
+1AO7	hetero_pentamer	X-ray diffraction	2.6	A	P04439	274	0.806
+1AO7	hetero_pentamer	X-ray diffraction	2.6	B	P61769	98	1.0
+1AO7	hetero_pentamer	X-ray diffraction	2.6	C	P14079	8	0.025
+1AO7	hetero_pentamer	X-ray diffraction	2.6	D	A0A075B6T6,P01848	92	0.664
+1AO7	hetero_pentamer	X-ray diffraction	2.6	E	P01850	128	0.733
+3S9D	hetero_dimer	X-ray diffraction	1.9999	A	P01563	164	1.0
+3S9D	hetero_dimer	X-ray diffraction	1.9999	C	P01563	164	1.0
+3S9D	hetero_dimer	X-ray diffraction	1.9999	B	P48551	195	0.401
+3S9D	hetero_dimer	X-ray diffraction	1.9999	D	P48551	195	0.401
+3HFM	hetero_trimer	X-ray diffraction	3.0	L	P01837	106	1.0
+3HFM	hetero_trimer	X-ray diffraction	3.0	H	Not Mapped	Not Mapped	Not Mapped
+3HFM	hetero_trimer	X-ray diffraction	3.0	Y	P00698	128	1.0
+1JTG	hetero_dimer	X-ray diffraction	1.73	A	P62593	262	1.0
+1JTG	hetero_dimer	X-ray diffraction	1.73	C	P62593	262	1.0
+1JTG	hetero_dimer	X-ray diffraction	1.73	B	P35804	164	1.0
+1JTG	hetero_dimer	X-ray diffraction	1.73	D	P35804	164	1.0
+1GC1	hetero_tetramer	X-ray diffraction	2.5	G	P04578,P04578,P04578	162	0.377
+1GC1	hetero_tetramer	X-ray diffraction	2.5	C	P01730	184	0.427
+1GC1	hetero_tetramer	X-ray diffraction	2.5	L	Not Mapped	Not Mapped	Not Mapped
+1GC1	hetero_tetramer	X-ray diffraction	2.5	H	Not Mapped	Not Mapped	Not Mapped
+1MHP	hetero_trimer	X-ray diffraction	2.8	A	P18614	191	0.167
+1MHP	hetero_trimer	X-ray diffraction	2.8	B	P18614	191	0.167
+1MHP	hetero_trimer	X-ray diffraction	2.8	H	Not Mapped	Not Mapped	Not Mapped
+1MHP	hetero_trimer	X-ray diffraction	2.8	X	Not Mapped	Not Mapped	Not Mapped
+1MHP	hetero_trimer	X-ray diffraction	2.8	L	Not Mapped	Not Mapped	Not Mapped
+1MHP	hetero_trimer	X-ray diffraction	2.8	Y	Not Mapped	Not Mapped	Not Mapped
+1C4Z	hetero_tetramer	X-ray diffraction	2.6	A	Q05086	357	0.409
+1C4Z	hetero_tetramer	X-ray diffraction	2.6	B	Q05086	357	0.409
+1C4Z	hetero_tetramer	X-ray diffraction	2.6	C	Q05086	357	0.409
+1C4Z	hetero_tetramer	X-ray diffraction	2.6	D	P68036	153	1.0
+1OGA	hetero_pentamer	X-ray diffraction	1.4	A	P04439	274	0.806
+1OGA	hetero_pentamer	X-ray diffraction	1.4	B	P61769	98	1.0
+1OGA	hetero_pentamer	X-ray diffraction	1.4	C	Not Mapped	Not Mapped	Not Mapped
+1OGA	hetero_pentamer	X-ray diffraction	1.4	D	P01848	91	0.657
+1OGA	hetero_pentamer	X-ray diffraction	1.4	E	P01850	128	0.733
+1VFB	hetero_trimer	X-ray diffraction	1.8	A	P01635	94	1.0
+1VFB	hetero_trimer	X-ray diffraction	1.8	B	P01820	95	1.0
+1VFB	hetero_trimer	X-ray diffraction	1.8	C	P00698	128	1.0
+1EMV	hetero_dimer	X-ray diffraction	1.7	A	P13479	85	1.0
+1EMV	hetero_dimer	X-ray diffraction	1.7	B	P09883	132	0.229
+1BP3	hetero_dimer	X-ray diffraction	2.9	A	P01241	190	1.0
+1BP3	hetero_dimer	X-ray diffraction	2.9	B	P16471	210	0.353
+2JEL	hetero_trimer	X-ray diffraction	2.5	L	Not Mapped	Not Mapped	Not Mapped
+2JEL	hetero_trimer	X-ray diffraction	2.5	H	Not Mapped	Not Mapped	Not Mapped
+2JEL	hetero_trimer	X-ray diffraction	2.5	P	P0AA04	84	1.0
+1JRH	hetero_trimer	X-ray diffraction	2.8	L	P01837	106	1.0
+1JRH	hetero_trimer	X-ray diffraction	2.8	H	P01869	96	0.247
+1JRH	hetero_trimer	X-ray diffraction	2.8	I	P15260	107	0.229
+3NGB	hetero_trimer	X-ray diffraction	2.68	A	Q0ED31,Q0ED31,Q0ED31	161	0.403
+3NGB	hetero_trimer	X-ray diffraction	2.68	D	Q0ED31,Q0ED31,Q0ED31	161	0.403
+3NGB	hetero_trimer	X-ray diffraction	2.68	G	Q0ED31,Q0ED31,Q0ED31	161	0.403
+3NGB	hetero_trimer	X-ray diffraction	2.68	I	Q0ED31,Q0ED31,Q0ED31	161	0.403
+3NGB	hetero_trimer	X-ray diffraction	2.68	B	Not Mapped	Not Mapped	Not Mapped
+3NGB	hetero_trimer	X-ray diffraction	2.68	E	Not Mapped	Not Mapped	Not Mapped
+3NGB	hetero_trimer	X-ray diffraction	2.68	H	Not Mapped	Not Mapped	Not Mapped
+3NGB	hetero_trimer	X-ray diffraction	2.68	J	Not Mapped	Not Mapped	Not Mapped
+3NGB	hetero_trimer	X-ray diffraction	2.68	C	Not Mapped	Not Mapped	Not Mapped
+3NGB	hetero_trimer	X-ray diffraction	2.68	F	Not Mapped	Not Mapped	Not Mapped
+3NGB	hetero_trimer	X-ray diffraction	2.68	K	Not Mapped	Not Mapped	Not Mapped
+3NGB	hetero_trimer	X-ray diffraction	2.68	L	Not Mapped	Not Mapped	Not Mapped
+1MI5	hetero_pentamer	X-ray diffraction	2.5	A	P01889	276	0.82
+1MI5	hetero_pentamer	X-ray diffraction	2.5	B	P61769	98	1.0
+1MI5	hetero_pentamer	X-ray diffraction	2.5	C	Q3KST2	8	0.01
+1MI5	hetero_pentamer	X-ray diffraction	2.5	D	P01848	88	0.636
+1MI5	hetero_pentamer	X-ray diffraction	2.5	E	P01850	128	0.733
+1LFD	hetero_dimer	X-ray diffraction	2.1	A	Q03386	86	0.097
+1LFD	hetero_dimer	X-ray diffraction	2.1	C	Q03386	86	0.097
+1LFD	hetero_dimer	X-ray diffraction	2.1	B	P01112	166	0.884
+1LFD	hetero_dimer	X-ray diffraction	2.1	D	P01112	166	0.884
+1IAR	hetero_dimer	X-ray diffraction	2.3	A	P05112	128	1.0
+1IAR	hetero_dimer	X-ray diffraction	2.3	B	P24394	206	0.259
+1JTD	hetero_dimer	X-ray diffraction	2.3	A	P62593	262	1.0
+1JTD	hetero_dimer	X-ray diffraction	2.3	B	O87916	272	0.975
+4RS1	hetero_dimer	X-ray diffraction	2.68	B	P15509	280	0.743
+4RS1	hetero_dimer	X-ray diffraction	2.68	A	P04141	111	0.882
+3BN9	hetero_trimer	X-ray diffraction	2.173	A	Q9Y5Y6	240	0.282
+3BN9	hetero_trimer	X-ray diffraction	2.173	B	Q9Y5Y6	240	0.282
+3BN9	hetero_trimer	X-ray diffraction	2.173	C	Not Mapped	Not Mapped	Not Mapped
+3BN9	hetero_trimer	X-ray diffraction	2.173	E	Not Mapped	Not Mapped	Not Mapped
+3BN9	hetero_trimer	X-ray diffraction	2.173	D	P01857	106	0.268
+3BN9	hetero_trimer	X-ray diffraction	2.173	F	P01857	106	0.268
+3C60	hetero_tetramer	X-ray diffraction	3.05	A	Not Mapped	Not Mapped	Not Mapped
+3C60	hetero_tetramer	X-ray diffraction	3.05	E	Not Mapped	Not Mapped	Not Mapped
+3C60	hetero_tetramer	X-ray diffraction	3.05	B	Not Mapped	Not Mapped	Not Mapped
+3C60	hetero_tetramer	X-ray diffraction	3.05	F	Not Mapped	Not Mapped	Not Mapped
+3C60	hetero_tetramer	X-ray diffraction	3.05	C	P14434	181	0.781
+3C60	hetero_tetramer	X-ray diffraction	3.05	G	P14434	181	0.781
+3C60	hetero_tetramer	X-ray diffraction	3.05	D	P14483	188	0.765
+3C60	hetero_tetramer	X-ray diffraction	3.05	H	P14483	188	0.765
+4NKQ	hetero_trimer	X-ray diffraction	3.301	A	P32927	413	0.47
+4NKQ	hetero_trimer	X-ray diffraction	3.301	C	P04141	126	1.0
+4NKQ	hetero_trimer	X-ray diffraction	3.301	B	P15509	287	0.762
+1A4Y	hetero_tetramer	X-ray diffraction	2.0	A	P13489	459	0.998
+1A4Y	hetero_tetramer	X-ray diffraction	2.0	D	P13489	459	0.998
+1A4Y	hetero_tetramer	X-ray diffraction	2.0	B	P03950	122	1.0
+1A4Y	hetero_tetramer	X-ray diffraction	2.0	E	P03950	122	1.0
+1CBW	hetero_tetramer	X-ray diffraction	2.6	A	P00767	12	0.053
+1CBW	hetero_tetramer	X-ray diffraction	2.6	F	P00767	12	0.053
+1CBW	hetero_tetramer	X-ray diffraction	2.6	B	P00766	130	0.535
+1CBW	hetero_tetramer	X-ray diffraction	2.6	G	P00766	130	0.535
+1CBW	hetero_tetramer	X-ray diffraction	2.6	C	P00766	96	0.396
+1CBW	hetero_tetramer	X-ray diffraction	2.6	H	P00766	96	0.396
+1CBW	hetero_tetramer	X-ray diffraction	2.6	D	P00974	57	0.734
+1CBW	hetero_tetramer	X-ray diffraction	2.6	I	P00974	57	0.734
+2FTL	hetero_dimer	X-ray diffraction	1.62	E	P00760	222	0.974
+2FTL	hetero_dimer	X-ray diffraction	1.62	I	P00974	57	0.734
+1BRS	hetero_dimer	X-ray diffraction	2.0	A	P00648	109	0.894
+1BRS	hetero_dimer	X-ray diffraction	2.0	B	P00648	109	0.894
+1BRS	hetero_dimer	X-ray diffraction	2.0	C	P00648	109	0.894
+1BRS	hetero_dimer	X-ray diffraction	2.0	D	P11540	88	0.989
+1BRS	hetero_dimer	X-ray diffraction	2.0	E	P11540	88	0.989
+1BRS	hetero_dimer	X-ray diffraction	2.0	F	P11540	88	0.989
+2NYY	hetero_trimer	X-ray diffraction	2.61	A	P0DPI1	1294	0.999
+2NYY	hetero_trimer	X-ray diffraction	2.61	C	Not Mapped	Not Mapped	Not Mapped
+2NYY	hetero_trimer	X-ray diffraction	2.61	D	Not Mapped	Not Mapped	Not Mapped
+4G0N	hetero_dimer	X-ray diffraction	2.45	A	P01112	165	0.878
+4G0N	hetero_dimer	X-ray diffraction	2.45	B	P04049	77	0.12
+2AK4	hetero_pentamer	X-ray diffraction	2.5	A	P01889	275	0.817
+2AK4	hetero_pentamer	X-ray diffraction	2.5	F	P01889	275	0.817
+2AK4	hetero_pentamer	X-ray diffraction	2.5	K	P01889	275	0.817
+2AK4	hetero_pentamer	X-ray diffraction	2.5	Q	P01889	275	0.817
+2AK4	hetero_pentamer	X-ray diffraction	2.5	B	P61769	98	1.0
+2AK4	hetero_pentamer	X-ray diffraction	2.5	G	P61769	98	1.0
+2AK4	hetero_pentamer	X-ray diffraction	2.5	L	P61769	98	1.0
+2AK4	hetero_pentamer	X-ray diffraction	2.5	R	P61769	98	1.0
+2AK4	hetero_pentamer	X-ray diffraction	2.5	C	P03206	12	0.053
+2AK4	hetero_pentamer	X-ray diffraction	2.5	H	P03206	12	0.053
+2AK4	hetero_pentamer	X-ray diffraction	2.5	M	P03206	12	0.053
+2AK4	hetero_pentamer	X-ray diffraction	2.5	S	P03206	12	0.053
+2AK4	hetero_pentamer	X-ray diffraction	2.5	D	P01848	92	0.664
+2AK4	hetero_pentamer	X-ray diffraction	2.5	I	P01848	92	0.664
+2AK4	hetero_pentamer	X-ray diffraction	2.5	N	P01848	92	0.664
+2AK4	hetero_pentamer	X-ray diffraction	2.5	T	P01848	92	0.664
+2AK4	hetero_pentamer	X-ray diffraction	2.5	E	P01850	128	0.733
+2AK4	hetero_pentamer	X-ray diffraction	2.5	J	P01850	128	0.733
+2AK4	hetero_pentamer	X-ray diffraction	2.5	P	P01850	128	0.733
+2AK4	hetero_pentamer	X-ray diffraction	2.5	U	P01850	128	0.733
+2WPT	hetero_dimer	X-ray diffraction	1.78	A	P04482	85	1.0
+2WPT	hetero_dimer	X-ray diffraction	1.78	B	P09883	132	0.229
+3SE8	hetero_trimer	X-ray diffraction	1.895	G	Q0ED31	352	0.412
+3SE8	hetero_trimer	X-ray diffraction	1.895	H	Not Mapped	Not Mapped	Not Mapped
+3SE8	hetero_trimer	X-ray diffraction	1.895	L	Not Mapped	Not Mapped	Not Mapped
+1EAW	hetero_dimer	X-ray diffraction	2.93	A	Q9Y5Y6	240	0.282
+1EAW	hetero_dimer	X-ray diffraction	2.93	C	Q9Y5Y6	240	0.282
+1EAW	hetero_dimer	X-ray diffraction	2.93	B	P00974	57	0.734
+1EAW	hetero_dimer	X-ray diffraction	2.93	D	P00974	57	0.734
+1KTZ	hetero_tetramer	X-ray diffraction	2.15	A	P10600	111	0.288
+1KTZ	hetero_tetramer	X-ray diffraction	2.15	B	P37173	121	0.224
+2G2U	hetero_dimer	X-ray diffraction	1.6	A	P0AD64	264	1.0
+2G2U	hetero_dimer	X-ray diffraction	1.6	B	P35804	164	1.0
+3NPS	hetero_trimer	X-ray diffraction	1.5	A	Q9Y5Y6	240	0.282
+3NPS	hetero_trimer	X-ray diffraction	1.5	B	Not Mapped	Not Mapped	Not Mapped
+3NPS	hetero_trimer	X-ray diffraction	1.5	C	Not Mapped	Not Mapped	Not Mapped
+3SE4	hetero_trimer	X-ray diffraction	3.5001	A	P17181	408	0.772
+3SE4	hetero_trimer	X-ray diffraction	3.5001	B	P05000	173	1.0
+3SE4	hetero_trimer	X-ray diffraction	3.5001	C	P48551	198	0.407
+2BNR	hetero_pentamer	X-ray diffraction	1.9	A	P04439	274	0.806
+2BNR	hetero_pentamer	X-ray diffraction	1.9	B	P61769	98	1.0
+2BNR	hetero_pentamer	X-ray diffraction	1.9	C	P78358	8	0.05
+2BNR	hetero_pentamer	X-ray diffraction	1.9	D	P01848,A0A0B4J279	91	0.989
+2BNR	hetero_pentamer	X-ray diffraction	1.9	E	P01850,A0A0K0K1A5	92	1.0
+4P23	hetero_tetramer	X-ray diffraction	2.25	A	Not Mapped	Not Mapped	Not Mapped
+4P23	hetero_tetramer	X-ray diffraction	2.25	B	Not Mapped	Not Mapped	Not Mapped
+4P23	hetero_tetramer	X-ray diffraction	2.25	C	P14434	178	0.768
+4P23	hetero_tetramer	X-ray diffraction	2.25	D	P14483,P14483	188	0.697
+4P5T	hetero_dimer	X-ray diffraction	3.263	A	Not Mapped	Not Mapped	Not Mapped
+4P5T	hetero_dimer	X-ray diffraction	3.263	E	Not Mapped	Not Mapped	Not Mapped
+4P5T	hetero_dimer	X-ray diffraction	3.263	B	Not Mapped	Not Mapped	Not Mapped
+4P5T	hetero_dimer	X-ray diffraction	3.263	F	Not Mapped	Not Mapped	Not Mapped
+4P5T	hetero_dimer	X-ray diffraction	3.263	C	P14434	181	0.781
+4P5T	hetero_dimer	X-ray diffraction	3.263	G	P14434	181	0.781
+4P5T	hetero_dimer	X-ray diffraction	3.263	D	P14483	194	0.803
+4P5T	hetero_dimer	X-ray diffraction	3.263	H	P14483	194	0.803
+1DVF	hetero_tetramer	X-ray diffraction	1.9	A	P01635	94	1.0
+1DVF	hetero_tetramer	X-ray diffraction	1.9	B	P01820	95	1.0
+1DVF	hetero_tetramer	X-ray diffraction	1.9	C	P01646	106	0.991
+1DVF	hetero_tetramer	X-ray diffraction	1.9	D	A0NA69	97	0.951
+3QHY	hetero_dimer	X-ray diffraction	2.06	A	Q93T42	270	0.877
+3QHY	hetero_dimer	X-ray diffraction	2.06	B	O87916	270	0.968
+3QIB	hetero_pentamer	X-ray diffraction	2.7	A	P04224	190	0.83
+3QIB	hetero_pentamer	X-ray diffraction	2.7	B	P04230	195	0.824
+3QIB	hetero_pentamer	X-ray diffraction	2.7	C	P01848	92	0.664
+3QIB	hetero_pentamer	X-ray diffraction	2.7	D	Not Mapped	Not Mapped	Not Mapped
+3QIB	hetero_pentamer	X-ray diffraction	2.7	P	P00039	11	0.111
+3SE9	hetero_trimer	X-ray diffraction	2.0	G	Q0ED31	352	0.412
+3SE9	hetero_trimer	X-ray diffraction	2.0	H	Not Mapped	Not Mapped	Not Mapped
+3SE9	hetero_trimer	X-ray diffraction	2.0	L	Not Mapped	Not Mapped	Not Mapped
+4PWX	hetero_hexamer	X-ray diffraction	5.4	A	Q12154	352	0.997
+4PWX	hetero_hexamer	X-ray diffraction	5.4	B	Q12154	352	0.997
+4PWX	hetero_hexamer	X-ray diffraction	5.4	C	Q12125	279	0.897
+4PWX	hetero_hexamer	X-ray diffraction	5.4	E	Q12125	279	0.897
+4PWX	hetero_hexamer	X-ray diffraction	5.4	D	Q12285	53	0.255
+4PWX	hetero_hexamer	X-ray diffraction	5.4	F	Q12285	53	0.255
+1DQJ	hetero_trimer	X-ray diffraction	2.0	A	P01837	106	1.0
+1DQJ	hetero_trimer	X-ray diffraction	2.0	B	P01865	95	0.241
+1DQJ	hetero_trimer	X-ray diffraction	2.0	C	P00698	128	1.0
+3SZK	hetero_trimer	X-ray diffraction	3.01	A	P69905	140	0.993
+3SZK	hetero_trimer	X-ray diffraction	3.01	D	P69905	140	0.993
+3SZK	hetero_trimer	X-ray diffraction	3.01	B	P68871	145	0.993
+3SZK	hetero_trimer	X-ray diffraction	3.01	E	P68871	145	0.993
+3SZK	hetero_trimer	X-ray diffraction	3.01	C	Q8NW39	143	0.168
+3SZK	hetero_trimer	X-ray diffraction	3.01	F	Q8NW39	143	0.168
+1B41	hetero_tetramer	X-ray diffraction	2.76	A	P22303	538	0.925
+1B41	hetero_tetramer	X-ray diffraction	2.76	B	P0C1Z0	60	1.0
+1FSS	hetero_tetramer	X-ray diffraction	3.0	A	P04058	536	0.95
+1FSS	hetero_tetramer	X-ray diffraction	3.0	B	P0C1Z0	60	1.0
+1FFW	hetero_dimer	X-ray diffraction	2.7	A	P0AE67	127	0.992
+1FFW	hetero_dimer	X-ray diffraction	2.7	C	P0AE67	127	0.992
+1FFW	hetero_dimer	X-ray diffraction	2.7	B	P07363	133	0.205
+1FFW	hetero_dimer	X-ray diffraction	2.7	D	P07363	133	0.205
+1K8R	hetero_dimer	X-ray diffraction	3.0	A	P01112	165	0.878
+1K8R	hetero_dimer	X-ray diffraction	3.0	B	P28829	109	0.167
+2NZ9	hetero_trimer	X-ray diffraction	3.79	A	P0DPI1	1294	0.999
+2NZ9	hetero_trimer	X-ray diffraction	3.79	B	P0DPI1	1294	0.999
+2NZ9	hetero_trimer	X-ray diffraction	3.79	C	Not Mapped	Not Mapped	Not Mapped
+2NZ9	hetero_trimer	X-ray diffraction	3.79	E	Not Mapped	Not Mapped	Not Mapped
+2NZ9	hetero_trimer	X-ray diffraction	3.79	D	Not Mapped	Not Mapped	Not Mapped
+2NZ9	hetero_trimer	X-ray diffraction	3.79	F	Not Mapped	Not Mapped	Not Mapped
+1FC2	hetero_tetramer	X-ray diffraction	2.8	C	P38507	57	0.123
+1FC2	hetero_tetramer	X-ray diffraction	2.8	D	P01857	222	0.559
+1XD3	hetero_dimer	X-ray diffraction	1.45	A	P15374	229	1.0
+1XD3	hetero_dimer	X-ray diffraction	1.45	C	P15374	229	1.0
+1XD3	hetero_dimer	X-ray diffraction	1.45	B	P0CG48	74	0.109
+1XD3	hetero_dimer	X-ray diffraction	1.45	D	P0CG48	74	0.109
+3M62	hetero_dimer	X-ray diffraction	2.4	A	P54860	960	1.0
+3M62	hetero_dimer	X-ray diffraction	2.4	B	P32628	83	0.211
+5C6T	hetero_nonamer	X-ray diffraction	3.6	A	P13201	611	0.692
+5C6T	hetero_nonamer	X-ray diffraction	3.6	H	Not Mapped	Not Mapped	Not Mapped
+5C6T	hetero_nonamer	X-ray diffraction	3.6	L	Not Mapped	Not Mapped	Not Mapped
+1TM1	hetero_dimer	X-ray diffraction	1.7	E	P00782	274	0.781
+1TM1	hetero_dimer	X-ray diffraction	1.7	I	Q40059	63	0.762
+1Z7X	hetero_tetramer	X-ray diffraction	1.95	X	P07998	127	1.0
+1Z7X	hetero_tetramer	X-ray diffraction	1.95	Z	P07998	127	1.0
+1Z7X	hetero_tetramer	X-ray diffraction	1.95	W	P13489	460	1.0
+1Z7X	hetero_tetramer	X-ray diffraction	1.95	Y	P13489	460	1.0
+3SE3	hetero_trimer	X-ray diffraction	4.0001	A	P17181	408	0.772
+3SE3	hetero_trimer	X-ray diffraction	4.0001	B	P01563	164	1.0
+3SE3	hetero_trimer	X-ray diffraction	4.0001	C	P48551	198	0.407
+1E50	hetero_dimer	X-ray diffraction	2.6	A	Q01196	133	0.296
+1E50	hetero_dimer	X-ray diffraction	2.6	C	Q01196	133	0.296
+1E50	hetero_dimer	X-ray diffraction	2.6	E	Q01196	133	0.296
+1E50	hetero_dimer	X-ray diffraction	2.6	G	Q01196	133	0.296
+1E50	hetero_dimer	X-ray diffraction	2.6	Q	Q01196	133	0.296
+1E50	hetero_dimer	X-ray diffraction	2.6	R	Q01196	133	0.296
+1E50	hetero_dimer	X-ray diffraction	2.6	B	Q13951	133	0.736
+1E50	hetero_dimer	X-ray diffraction	2.6	D	Q13951	133	0.736
+1E50	hetero_dimer	X-ray diffraction	2.6	F	Q13951	133	0.736
+1E50	hetero_dimer	X-ray diffraction	2.6	H	Q13951	133	0.736
+1AK4	hetero_dimer	X-ray diffraction	2.36	A	P62937	164	1.0
+1AK4	hetero_dimer	X-ray diffraction	2.36	B	P62937	164	1.0
+1AK4	hetero_dimer	X-ray diffraction	2.36	C	P12497	144	0.101
+1AK4	hetero_dimer	X-ray diffraction	2.36	D	P12497	144	0.101
+1YY9	hetero_trimer	X-ray diffraction	2.605	A	P00533	617	0.521
+1YY9	hetero_trimer	X-ray diffraction	2.605	C	Not Mapped	Not Mapped	Not Mapped
+1YY9	hetero_trimer	X-ray diffraction	2.605	D	Not Mapped	Not Mapped	Not Mapped
+2J0T	hetero_dimer	X-ray diffraction	2.54	A	P03956	168	0.376
+2J0T	hetero_dimer	X-ray diffraction	2.54	B	P03956	168	0.376
+2J0T	hetero_dimer	X-ray diffraction	2.54	C	P03956	168	0.376
+2J0T	hetero_dimer	X-ray diffraction	2.54	D	P01033	125	0.685
+2J0T	hetero_dimer	X-ray diffraction	2.54	E	P01033	125	0.685
+2J0T	hetero_dimer	X-ray diffraction	2.54	F	P01033	125	0.685
+1C1Y	hetero_dimer	X-ray diffraction	1.9	A	P62834	166	0.908
+1C1Y	hetero_dimer	X-ray diffraction	1.9	B	P04049	76	0.119
+3QDJ	hetero_pentamer	X-ray diffraction	2.3	A	P04439	274	0.806
+3QDJ	hetero_pentamer	X-ray diffraction	2.3	B	P61769	98	1.0
+3QDJ	hetero_pentamer	X-ray diffraction	2.3	C	Not Mapped	Not Mapped	Not Mapped
+3QDJ	hetero_pentamer	X-ray diffraction	2.3	D	P01848	88	0.636
+3QDJ	hetero_pentamer	X-ray diffraction	2.3	E	Not Mapped	Not Mapped	Not Mapped
+3QDG	hetero_pentamer	X-ray diffraction	2.69	A	P04439	274	0.806
+3QDG	hetero_pentamer	X-ray diffraction	2.69	B	P61769	98	1.0
+3QDG	hetero_pentamer	X-ray diffraction	2.69	C	Not Mapped	Not Mapped	Not Mapped
+3QDG	hetero_pentamer	X-ray diffraction	2.69	D	P01848	88	0.636
+3QDG	hetero_pentamer	X-ray diffraction	2.69	E	Not Mapped	Not Mapped	Not Mapped
+5M2O	hetero_dimer	X-ray diffraction	1.26	A	A0AEF4	145	0.071
+5M2O	hetero_dimer	X-ray diffraction	1.26	B	Not Mapped	Not Mapped	Not Mapped
+1KNE	hetero_dimer	X-ray diffraction	2.4	A	P05205	59	0.291
+1KNE	hetero_dimer	X-ray diffraction	2.4	P	P02299	15	0.118
+3BK3	hetero_dimer	X-ray diffraction	2.7	A	P12643	113	0.306
+3BK3	hetero_dimer	X-ray diffraction	2.7	B	P12643	113	0.306
+3BK3	hetero_dimer	X-ray diffraction	2.7	C	Q5D734	65	0.103
+3BK3	hetero_dimer	X-ray diffraction	2.7	D	Q5D734	65	0.103
+5F4E	hetero_dimer	X-ray diffraction	2.4	A	Q8IYV9	232	0.708
+5F4E	hetero_dimer	X-ray diffraction	2.4	B	A6ND01	208	0.905
+1F47	hetero_dimer	X-ray diffraction	1.95	B	P77173	143	0.439
+1F47	hetero_dimer	X-ray diffraction	1.95	A	P0A9A6	16	0.044
+1GUA	hetero_dimer	X-ray diffraction	2.0	A	P62834	166	0.908
+1GUA	hetero_dimer	X-ray diffraction	2.0	B	P04049	80	0.125
+1N8Z	hetero_trimer	X-ray diffraction	2.52	A	Not Mapped	Not Mapped	Not Mapped
+1N8Z	hetero_trimer	X-ray diffraction	2.52	B	Not Mapped	Not Mapped	Not Mapped
+1N8Z	hetero_trimer	X-ray diffraction	2.52	C	P04626	606	0.492
+2BDN	hetero_hexamer	X-ray diffraction	2.53	A	P13500	75	1.0
+2BDN	hetero_hexamer	X-ray diffraction	2.53	L	Not Mapped	Not Mapped	Not Mapped
+2BDN	hetero_hexamer	X-ray diffraction	2.53	H	Not Mapped	Not Mapped	Not Mapped
+4I77	hetero_trimer	X-ray diffraction	1.9	H	Not Mapped	Not Mapped	Not Mapped
+4I77	hetero_trimer	X-ray diffraction	1.9	L	Not Mapped	Not Mapped	Not Mapped
+4I77	hetero_trimer	X-ray diffraction	1.9	Z	P35225	111	0.918
+4OZG	hetero_pentamer	X-ray diffraction	3.0	A	P01909	182	0.792
+4OZG	hetero_pentamer	X-ray diffraction	3.0	C	P01909	182	0.792
+4OZG	hetero_pentamer	X-ray diffraction	3.0	B	P01920	191	0.838
+4OZG	hetero_pentamer	X-ray diffraction	3.0	D	P01920	191	0.838
+4OZG	hetero_pentamer	X-ray diffraction	3.0	E	Q2YD82	193	0.805
+4OZG	hetero_pentamer	X-ray diffraction	3.0	G	Q2YD82	193	0.805
+4OZG	hetero_pentamer	X-ray diffraction	3.0	F	P01850	128	0.733
+4OZG	hetero_pentamer	X-ray diffraction	3.0	H	P01850	128	0.733
+4OZG	hetero_pentamer	X-ray diffraction	3.0	I	P04722	9	0.037
+4OZG	hetero_pentamer	X-ray diffraction	3.0	J	P04722	9	0.037
+1MLC	hetero_trimer	X-ray diffraction	2.5	A	P01837	106	1.0
+1MLC	hetero_trimer	X-ray diffraction	2.5	C	P01837	106	1.0
+1MLC	hetero_trimer	X-ray diffraction	2.5	B	P01868	101	0.315
+1MLC	hetero_trimer	X-ray diffraction	2.5	D	P01868	101	0.315
+1MLC	hetero_trimer	X-ray diffraction	2.5	E	P00698	128	1.0
+1MLC	hetero_trimer	X-ray diffraction	2.5	F	P00698	128	1.0
+3EQY	hetero_dimer	X-ray diffraction	1.63	A	O15151	84	0.173
+3EQY	hetero_dimer	X-ray diffraction	1.63	B	O15151	84	0.173
+3EQY	hetero_dimer	X-ray diffraction	1.63	C	Not Mapped	Not Mapped	Not Mapped
+3EQY	hetero_dimer	X-ray diffraction	1.63	D	Not Mapped	Not Mapped	Not Mapped
+3M63	hetero_dimer	X-ray diffraction	2.4	A	P54860	960	1.0
+3M63	hetero_dimer	X-ray diffraction	2.4	B	P48510	74	0.201
+3Q8D	hetero_dimer	X-ray diffraction	2.3	A	P0A7H3	241	1.0
+3Q8D	hetero_dimer	X-ray diffraction	2.3	B	P0A7H3	241	1.0
+3Q8D	hetero_dimer	X-ray diffraction	2.3	E	P0AGE0	8	0.051
+3Q8D	hetero_dimer	X-ray diffraction	2.3	F	P0AGE0	8	0.051
+4BFI	hetero_dimer	X-ray diffraction	3.22	A	Q9ES57	202	0.674
+4BFI	hetero_dimer	X-ray diffraction	3.22	B	O54901	201	0.815
+4OFY	hetero_dimer	X-ray diffraction	3.3	A	B1Q236	252	0.355
+4OFY	hetero_dimer	X-ray diffraction	3.3	B	B1Q236	252	0.355
+4OFY	hetero_dimer	X-ray diffraction	3.3	C	B1Q236	252	0.355
+4OFY	hetero_dimer	X-ray diffraction	3.3	D	Q9U3P2	410	0.329
+4OFY	hetero_dimer	X-ray diffraction	3.3	E	Q9U3P2	410	0.329
+4OFY	hetero_dimer	X-ray diffraction	3.3	F	Q9U3P2	410	0.329
+5XCO	hetero_dimer	X-ray diffraction	1.25	A	P01116	168	0.894
+5XCO	hetero_dimer	X-ray diffraction	1.25	B	Not Mapped	Not Mapped	Not Mapped
+1BJ1	hetero_hexamer	X-ray diffraction	2.4	J	Not Mapped	Not Mapped	Not Mapped
+1BJ1	hetero_hexamer	X-ray diffraction	2.4	L	Not Mapped	Not Mapped	Not Mapped
+1BJ1	hetero_hexamer	X-ray diffraction	2.4	H	Not Mapped	Not Mapped	Not Mapped
+1BJ1	hetero_hexamer	X-ray diffraction	2.4	K	Not Mapped	Not Mapped	Not Mapped
+1BJ1	hetero_hexamer	X-ray diffraction	2.4	V	P15692	101	0.258
+1BJ1	hetero_hexamer	X-ray diffraction	2.4	W	P15692	101	0.258
+1JCK	hetero_tetramer	X-ray diffraction	3.5	A	Not Mapped	Not Mapped	Not Mapped
+1JCK	hetero_tetramer	X-ray diffraction	3.5	C	Not Mapped	Not Mapped	Not Mapped
+1JCK	hetero_tetramer	X-ray diffraction	3.5	B	P0A0L5	238	1.0
+1JCK	hetero_tetramer	X-ray diffraction	3.5	D	P0A0L5	238	1.0
+2SIC	hetero_tetramer	X-ray diffraction	1.8	E	P00782	274	0.781
+2SIC	hetero_tetramer	X-ray diffraction	1.8	I	P01006	106	0.947
+3AAA	hetero_dimer	X-ray diffraction	2.2	A	P13127	285	1.0
+3AAA	hetero_dimer	X-ray diffraction	2.2	B	P14315	276	1.0
+3AAA	hetero_dimer	X-ray diffraction	2.2	C	P58546	117	1.0
+3EQS	hetero_dimer	X-ray diffraction	1.65	A	Q00987	84	0.173
+3EQS	hetero_dimer	X-ray diffraction	1.65	B	Not Mapped	Not Mapped	Not Mapped
+3MZG	hetero_dimer	X-ray diffraction	2.1	A	P01236	184	0.93
+3MZG	hetero_dimer	X-ray diffraction	2.1	B	P16471	209	0.351
+1AHW	hetero_hexamer	X-ray diffraction	3.0	A	P01837	106	1.0
+1AHW	hetero_hexamer	X-ray diffraction	3.0	D	P01837	106	1.0
+1AHW	hetero_hexamer	X-ray diffraction	3.0	B	P01868	96	0.299
+1AHW	hetero_hexamer	X-ray diffraction	3.0	E	P01868	96	0.299
+1AHW	hetero_hexamer	X-ray diffraction	3.0	C	P13726	218	0.833
+1AHW	hetero_hexamer	X-ray diffraction	3.0	F	P13726	218	0.833
+1BD2	hetero_pentamer	X-ray diffraction	2.5	A	P04439	274	0.806
+1BD2	hetero_pentamer	X-ray diffraction	2.5	B	P61769	98	1.0
+1BD2	hetero_pentamer	X-ray diffraction	2.5	C	P0C213	8	0.025
+1BD2	hetero_pentamer	X-ray diffraction	2.5	D	P01848,P04437	90	0.929
+1BD2	hetero_pentamer	X-ray diffraction	2.5	E	A0A0K0K1A5,A0A5B9	128	0.725
+1MAH	hetero_tetramer	X-ray diffraction	3.2	A	P21836	542	0.931
+1MAH	hetero_tetramer	X-ray diffraction	3.2	F	P0C1Z0	60	1.0
+3N85	hetero_nonamer	X-ray diffraction	3.2	A	P04626	623	0.506
+3N85	hetero_nonamer	X-ray diffraction	3.2	L	Not Mapped	Not Mapped	Not Mapped
+3N85	hetero_nonamer	X-ray diffraction	3.2	H	Not Mapped	Not Mapped	Not Mapped
+4B0M	hetero_trimer	X-ray diffraction	1.8	A	P26949	135	0.165
+4B0M	hetero_trimer	X-ray diffraction	1.8	B	P26948	148	1.0
+4B0M	hetero_trimer	X-ray diffraction	1.8	M	P26926	234	0.987
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	A	Q91MA7	318	0.58
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	C	Q91MA7	318	0.58
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	E	Q91MA7	318	0.58
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	B	Q91MA7	175	0.32
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	D	Q91MA7	175	0.32
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	F	Q91MA7	175	0.32
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	L	P01834	106	1.0
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	M	P01834	106	1.0
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	N	P01834	106	1.0
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	H	S6C4S0	223	0.875
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	I	S6C4S0	223	0.875
+4NM8	hetero_dodecamer	X-ray diffraction	4.0041	J	S6C4S0	223	0.875
+1FCC	hetero_tetramer	X-ray diffraction	3.2	A	P01857	205	0.516
+1FCC	hetero_tetramer	X-ray diffraction	3.2	B	P01857	205	0.516
+1FCC	hetero_tetramer	X-ray diffraction	3.2	C	P19909	55	0.1
+1FCC	hetero_tetramer	X-ray diffraction	3.2	D	P19909	55	0.1
+1NMB	hetero_dodecamer	X-ray diffraction	2.2	N	P05803	469	1.0
+1NMB	hetero_dodecamer	X-ray diffraction	2.2	L	Not Mapped	Not Mapped	Not Mapped
+1NMB	hetero_dodecamer	X-ray diffraction	2.2	H	Not Mapped	Not Mapped	Not Mapped
+4CPA	hetero_dimer	X-ray diffraction	2.5	A	P00730	306	0.762
+4CPA	hetero_dimer	X-ray diffraction	2.5	B	P00730	306	0.762
+4CPA	hetero_dimer	X-ray diffraction	2.5	I	P01075	37	0.974
+4CPA	hetero_dimer	X-ray diffraction	2.5	J	P01075	37	0.974
+4CVW	hetero_dimer	X-ray diffraction	2.67	A	O48541,O48541	400	0.977
+4CVW	hetero_dimer	X-ray diffraction	2.67	B	O48541,O48541	400	0.977
+4CVW	hetero_dimer	X-ray diffraction	2.67	C	Q2V8X0	113	0.927
+4CVW	hetero_dimer	X-ray diffraction	2.67	D	Q2V8X0	113	0.927
+4HFK	hetero_tetramer	X-ray diffraction	2.1	A	A0A0H3CIJ2	162	1.0
+4HFK	hetero_tetramer	X-ray diffraction	2.1	C	A0A0H3CIJ2	162	1.0
+4HFK	hetero_tetramer	X-ray diffraction	2.1	B	A0A0H3CIX8	98	1.0
+4HFK	hetero_tetramer	X-ray diffraction	2.1	D	A0A0H3CIX8	98	1.0
+4JPK	hetero_trimer	X-ray diffraction	2.4	H	Not Mapped	Not Mapped	Not Mapped
+4JPK	hetero_trimer	X-ray diffraction	2.4	L	Not Mapped	Not Mapped	Not Mapped
+4JPK	hetero_trimer	X-ray diffraction	2.4	A	P04578	115	0.141
+5E9D	hetero_pentamer	X-ray diffraction	2.51	A	P04439	274	0.806
+5E9D	hetero_pentamer	X-ray diffraction	2.51	F	P04439	274	0.806
+5E9D	hetero_pentamer	X-ray diffraction	2.51	B	P61769	98	1.0
+5E9D	hetero_pentamer	X-ray diffraction	2.51	G	P61769	98	1.0
+5E9D	hetero_pentamer	X-ray diffraction	2.51	C	Q16655	9	0.085
+5E9D	hetero_pentamer	X-ray diffraction	2.51	H	Q16655	9	0.085
+5E9D	hetero_pentamer	X-ray diffraction	2.51	D	A0A075B6T6	90	0.978
+5E9D	hetero_pentamer	X-ray diffraction	2.51	I	A0A075B6T6	90	0.978
+5E9D	hetero_pentamer	X-ray diffraction	2.51	E	A0A0K0K1A5	92	0.978
+5E9D	hetero_pentamer	X-ray diffraction	2.51	J	A0A0K0K1A5	92	0.978
+5TAR	hetero_dimer	X-ray diffraction	1.9	A	P01116	183	0.974
+5TAR	hetero_dimer	X-ray diffraction	1.9	B	O43924	147	0.987
+1GCQ	hetero_trimer	X-ray diffraction	1.68	A	P62993	58	0.272
+1GCQ	hetero_trimer	X-ray diffraction	1.68	B	P62993	58	0.272
+1GCQ	hetero_trimer	X-ray diffraction	1.68	C	P27870	65	0.078
+2AJF	hetero_dimer	X-ray diffraction	2.9	A	Q9BYF1	596	0.758
+2AJF	hetero_dimer	X-ray diffraction	2.9	B	Q9BYF1	596	0.758
+2AJF	hetero_dimer	X-ray diffraction	2.9	E	P59594	179	0.145
+2AJF	hetero_dimer	X-ray diffraction	2.9	F	P59594	179	0.145
+2B0U	hetero_tetramer	X-ray diffraction	2.8	A	P08476	115	0.286
+2B0U	hetero_tetramer	X-ray diffraction	2.8	B	P08476	115	0.286
+2B0U	hetero_tetramer	X-ray diffraction	2.8	C	P19883	287	0.914
+2B0U	hetero_tetramer	X-ray diffraction	2.8	D	P19883	287	0.914
+2O3B	hetero_dimer	X-ray diffraction	2.3	A	P38446	239	0.96
+2O3B	hetero_dimer	X-ray diffraction	2.3	B	A0ACD6B9A1	133	0.993
+3B4V	hetero_tetramer	X-ray diffraction	2.48	A	P08476	115	0.286
+3B4V	hetero_tetramer	X-ray diffraction	2.48	B	P08476	115	0.286
+3B4V	hetero_tetramer	X-ray diffraction	2.48	E	P08476	115	0.286
+3B4V	hetero_tetramer	X-ray diffraction	2.48	F	P08476	115	0.286
+3B4V	hetero_tetramer	X-ray diffraction	2.48	C	O95633	236	1.0
+3B4V	hetero_tetramer	X-ray diffraction	2.48	D	O95633	236	1.0
+3B4V	hetero_tetramer	X-ray diffraction	2.48	G	O95633	236	1.0
+3B4V	hetero_tetramer	X-ray diffraction	2.48	H	O95633	236	1.0
+3BX1	hetero_dimer	X-ray diffraction	1.85	A	P29600	268	1.0
+3BX1	hetero_dimer	X-ray diffraction	1.85	B	P29600	268	1.0
+3BX1	hetero_dimer	X-ray diffraction	1.85	C	P07596	180	1.0
+3BX1	hetero_dimer	X-ray diffraction	1.85	D	P07596	180	1.0
+3F1S	hetero_dimer	X-ray diffraction	2.3	A	Q9UK55	384	0.91
+3F1S	hetero_dimer	X-ray diffraction	2.3	B	P22891	275	0.732
+3HH2	hetero_tetramer	X-ray diffraction	2.15	A	O08689	108	0.31
+3HH2	hetero_tetramer	X-ray diffraction	2.15	B	O08689	108	0.31
+3HH2	hetero_tetramer	X-ray diffraction	2.15	C	P19883	287	0.914
+3HH2	hetero_tetramer	X-ray diffraction	2.15	D	P19883	287	0.914
+3SEK	hetero_tetramer	X-ray diffraction	2.401	B	O08689	108	0.31
+3SEK	hetero_tetramer	X-ray diffraction	2.401	C	O95633	208	0.882
+4L3E	hetero_pentamer	X-ray diffraction	2.557	A	P04439	274	0.806
+4L3E	hetero_pentamer	X-ray diffraction	2.557	B	P61769	98	1.0
+4L3E	hetero_pentamer	X-ray diffraction	2.557	C	Q16655	9	0.085
+4L3E	hetero_pentamer	X-ray diffraction	2.557	D	Not Mapped	Not Mapped	Not Mapped
+4L3E	hetero_pentamer	X-ray diffraction	2.557	E	Not Mapped	Not Mapped	Not Mapped
+5E6P	hetero_dimer	X-ray diffraction	3.215	A	B2RXS4	616	0.338
+5E6P	hetero_dimer	X-ray diffraction	3.215	B	O15085	83	0.055
+1E96	hetero_dimer	X-ray diffraction	2.4	A	P63000	190	0.995
+1E96	hetero_dimer	X-ray diffraction	2.4	B	P19878	202	0.386
+1ACB	hetero_dimer	X-ray diffraction	2.0	E	P00766	244	1.0
+1ACB	hetero_dimer	X-ray diffraction	2.0	I	P01051	69	1.0
+1CSE	hetero_dimer	X-ray diffraction	1.2	E	P00780	273	0.783
+1CSE	hetero_dimer	X-ray diffraction	1.2	I	P01051	69	1.0
+1H9D	hetero_tetramer	X-ray diffraction	2.6	A	Q01196	133	0.296
+1H9D	hetero_tetramer	X-ray diffraction	2.6	C	Q01196	133	0.296
+1H9D	hetero_tetramer	X-ray diffraction	2.6	B	Q13951	133	0.736
+1H9D	hetero_tetramer	X-ray diffraction	2.6	D	Q13951	133	0.736
+1S1Q	hetero_dimer	X-ray diffraction	2.0	A	Q99816	144	0.372
+1S1Q	hetero_dimer	X-ray diffraction	2.0	C	Q99816	144	0.372
+1S1Q	hetero_dimer	X-ray diffraction	2.0	B	P0CG48	75	0.111
+1S1Q	hetero_dimer	X-ray diffraction	2.0	D	P0CG48	75	0.111
+2PCB	hetero_dimer	X-ray diffraction	2.8	A	P00431	293	0.814
+2PCB	hetero_dimer	X-ray diffraction	2.8	C	P00431	293	0.814
+2PCB	hetero_dimer	X-ray diffraction	2.8	B	P00004	103	0.99
+2PCC	hetero_dimer	X-ray diffraction	2.3	A	P00431	293	0.814
+2PCC	hetero_dimer	X-ray diffraction	2.3	C	P00431	293	0.814
+2PCC	hetero_dimer	X-ray diffraction	2.3	B	P00044	107	0.991
+2PCC	hetero_dimer	X-ray diffraction	2.3	D	P00044	107	0.991
+3KBH	hetero_tetramer	X-ray diffraction	3.31	A	Q9BYF1	596	0.758
+3KBH	hetero_tetramer	X-ray diffraction	3.31	B	Q9BYF1	596	0.758
+3KBH	hetero_tetramer	X-ray diffraction	3.31	C	Q9BYF1	596	0.758
+3KBH	hetero_tetramer	X-ray diffraction	3.31	D	Q9BYF1	596	0.758
+3KBH	hetero_tetramer	X-ray diffraction	3.31	E	Q6Q1S2	135	0.102
+3KBH	hetero_tetramer	X-ray diffraction	3.31	F	Q6Q1S2	135	0.102
+3KBH	hetero_tetramer	X-ray diffraction	3.31	G	Q6Q1S2	135	0.102
+3KBH	hetero_tetramer	X-ray diffraction	3.31	H	Q6Q1S2	135	0.102
+3VR6	hetero_octamer	X-ray diffraction	2.68	A	Q08636	592	1.0
+3VR6	hetero_octamer	X-ray diffraction	2.68	B	Q08636	592	1.0
+3VR6	hetero_octamer	X-ray diffraction	2.68	C	Q08636	592	1.0
+3VR6	hetero_octamer	X-ray diffraction	2.68	D	Q08637	457	1.0
+3VR6	hetero_octamer	X-ray diffraction	2.68	E	Q08637	457	1.0
+3VR6	hetero_octamer	X-ray diffraction	2.68	F	Q08637	457	1.0
+3VR6	hetero_octamer	X-ray diffraction	2.68	G	P43435	209	1.0
+3VR6	hetero_octamer	X-ray diffraction	2.68	H	P43455	102	1.0
+4FTV	hetero_pentamer	X-ray diffraction	2.74	A	P04439	274	0.806
+4FTV	hetero_pentamer	X-ray diffraction	2.74	B	P61769	98	1.0
+4FTV	hetero_pentamer	X-ray diffraction	2.74	C	P0C213	8	0.025
+4FTV	hetero_pentamer	X-ray diffraction	2.74	D	Not Mapped	Not Mapped	Not Mapped
+4FTV	hetero_pentamer	X-ray diffraction	2.74	E	Not Mapped	Not Mapped	Not Mapped
+4JEU	hetero_dimer	X-ray diffraction	3.2	A	P61765	589	0.993
+4JEU	hetero_dimer	X-ray diffraction	3.2	B	P32851	241	0.84
+4JFF	hetero_pentamer	X-ray diffraction	2.43	A	P04439	274	0.806
+4JFF	hetero_pentamer	X-ray diffraction	2.43	B	P61769	98	1.0
+4JFF	hetero_pentamer	X-ray diffraction	2.43	C	Q16655	9	0.085
+4JFF	hetero_pentamer	X-ray diffraction	2.43	D	P01848	86	0.621
+4JFF	hetero_pentamer	X-ray diffraction	2.43	E	P01850	128	0.733
+4K71	hetero_trimer	X-ray diffraction	2.4	A	P02768	584	0.99
+4K71	hetero_trimer	X-ray diffraction	2.4	D	P02768	584	0.99
+4K71	hetero_trimer	X-ray diffraction	2.4	B	P55899	273	0.801
+4K71	hetero_trimer	X-ray diffraction	2.4	E	P55899	273	0.801
+4K71	hetero_trimer	X-ray diffraction	2.4	C	P61769	98	1.0
+4K71	hetero_trimer	X-ray diffraction	2.4	F	P61769	98	1.0
+4L0P	hetero_dimer	X-ray diffraction	2.26	A	P29320	172	0.18
+4L0P	hetero_dimer	X-ray diffraction	2.26	B	P52803	139	0.673
+4X4M	hetero_trimer	X-ray diffraction	3.485	A	P01857	216	0.544
+4X4M	hetero_trimer	X-ray diffraction	3.485	B	P01857	216	0.544
+4X4M	hetero_trimer	X-ray diffraction	3.485	C	P01857	216	0.544
+4X4M	hetero_trimer	X-ray diffraction	3.485	D	P01857	216	0.544
+4X4M	hetero_trimer	X-ray diffraction	3.485	E	P12314	268	0.749
+4X4M	hetero_trimer	X-ray diffraction	3.485	F	P12314	268	0.749
+4YFD	hetero_dimer	X-ray diffraction	3.253	B	Q61730	330	0.602
+4YFD	hetero_dimer	X-ray diffraction	3.253	A	Q64487	490	0.26
+1SMF	hetero_dimer	X-ray diffraction	2.1	E	P00760	222	0.974
+1SMF	hetero_dimer	X-ray diffraction	2.1	I	P01062	21	0.306
+1UUZ	hetero_dimer	X-ray diffraction	1.8	A	Q9HXB1	128	1.0
+1UUZ	hetero_dimer	X-ray diffraction	1.8	B	Q9HXB1	128	1.0
+1UUZ	hetero_dimer	X-ray diffraction	1.8	C	P00698	128	1.0
+1UUZ	hetero_dimer	X-ray diffraction	1.8	D	P00698	128	1.0
+2DVW	hetero_dimer	X-ray diffraction	2.3	A	Q9Z2X2	230	1.0
+2DVW	hetero_dimer	X-ray diffraction	2.3	B	P43686	81	0.196
+2KSO	hetero_dimer	Solution NMR		A	P29317	64	0.068
+2KSO	hetero_dimer	Solution NMR		B	O15357	58	0.047
+3R9A	hetero_tetramer	X-ray diffraction	2.35	A	P21549	391	1.0
+3R9A	hetero_tetramer	X-ray diffraction	2.35	C	P21549	391	1.0
+3R9A	hetero_tetramer	X-ray diffraction	2.35	B	P50542	324	0.509
+3R9A	hetero_tetramer	X-ray diffraction	2.35	D	P50542	324	0.509
+3SF4	hetero_dimer	X-ray diffraction	2.6	A	P81274	401	0.588
+3SF4	hetero_dimer	X-ray diffraction	2.6	B	P81274	401	0.588
+3SF4	hetero_dimer	X-ray diffraction	2.6	C	P81274	401	0.588
+3SF4	hetero_dimer	X-ray diffraction	2.6	D	Q1MX18	46	0.081
+3SF4	hetero_dimer	X-ray diffraction	2.6	E	Q1MX18	46	0.081
+3SF4	hetero_dimer	X-ray diffraction	2.6	F	Q1MX18	46	0.081
+3UIG	hetero_tetramer	X-ray diffraction	2.4	A	O15392	141	1.0
+3UIG	hetero_tetramer	X-ray diffraction	2.4	B	O15392	141	1.0
+3UIG	hetero_tetramer	X-ray diffraction	2.4	P	P68431	14	0.11
+3UIG	hetero_tetramer	X-ray diffraction	2.4	Q	P68431	14	0.11
+4J2L	hetero_dimer	X-ray diffraction	3.15	A	P54253	126	0.156
+4J2L	hetero_dimer	X-ray diffraction	3.15	B	P54253	126	0.156
+4J2L	hetero_dimer	X-ray diffraction	3.15	C	Q96RK0	25	0.01
+4J2L	hetero_dimer	X-ray diffraction	3.15	D	Q96RK0	25	0.01
+4YH7	hetero_dimer	X-ray diffraction	4.4	A	Q64487	833	0.441
+4YH7	hetero_dimer	X-ray diffraction	4.4	B	P59823	333	0.489
+5CXB	hetero_dimer	X-ray diffraction	2.1	A	G0SFB5	494	1.0
+5CXB	hetero_dimer	X-ray diffraction	2.1	B	G0SCK6	368	0.461
+5K39	hetero_dimer	X-ray diffraction	1.98	A	Q06853	159	0.242
+5K39	hetero_dimer	X-ray diffraction	1.98	B	A3DGE8	163	0.076
+1NCA	hetero_dodecamer	X-ray diffraction	2.5	N	P03472	388	0.828
+1NCA	hetero_dodecamer	X-ray diffraction	2.5	L	Not Mapped	Not Mapped	Not Mapped
+1NCA	hetero_dodecamer	X-ray diffraction	2.5	H	P01865	99	0.251
+1WQJ	hetero_dimer	X-ray diffraction	1.6	B	P22692	79	0.338
+1WQJ	hetero_dimer	X-ray diffraction	1.6	I	P05019	69	0.402
+1XGP	hetero_trimer	X-ray diffraction	2.1	A	P01837	106	1.0
+1XGP	hetero_trimer	X-ray diffraction	2.1	B	Not Mapped	Not Mapped	Not Mapped
+1XGP	hetero_trimer	X-ray diffraction	2.1	C	P00698	128	1.0
+1XGQ	hetero_trimer	X-ray diffraction	2.1	A	P01837	106	1.0
+1XGQ	hetero_trimer	X-ray diffraction	2.1	B	Not Mapped	Not Mapped	Not Mapped
+1XGQ	hetero_trimer	X-ray diffraction	2.1	C	P00698	128	1.0
+1XGR	hetero_trimer	X-ray diffraction	2.1	A	Not Mapped	Not Mapped	Not Mapped
+1XGR	hetero_trimer	X-ray diffraction	2.1	B	Not Mapped	Not Mapped	Not Mapped
+1XGR	hetero_trimer	X-ray diffraction	2.1	C	P00698	128	1.0
+1XGT	hetero_trimer	X-ray diffraction	2.1	A	Not Mapped	Not Mapped	Not Mapped
+1XGT	hetero_trimer	X-ray diffraction	2.1	B	Not Mapped	Not Mapped	Not Mapped
+1XGT	hetero_trimer	X-ray diffraction	2.1	C	P00698	128	1.0
+1XGU	hetero_trimer	X-ray diffraction	2.1	A	P01837	106	1.0
+1XGU	hetero_trimer	X-ray diffraction	2.1	B	Not Mapped	Not Mapped	Not Mapped
+1XGU	hetero_trimer	X-ray diffraction	2.1	C	P00698	128	1.0
+2BTF	hetero_dimer	X-ray diffraction	2.55	A	P60712	373	0.997
+2BTF	hetero_dimer	X-ray diffraction	2.55	P	P02584	138	0.993
+2C5D	hetero_tetramer	X-ray diffraction	3.3	A	Q14393	417	0.645
+2C5D	hetero_tetramer	X-ray diffraction	3.3	B	Q14393	417	0.645
+2C5D	hetero_tetramer	X-ray diffraction	3.3	C	P30530	194	0.224
+2C5D	hetero_tetramer	X-ray diffraction	3.3	D	P30530	194	0.224
+2DSQ	hetero_trimer	X-ray diffraction	2.8	A	P22692	91	0.388
+2DSQ	hetero_trimer	X-ray diffraction	2.8	B	P22692	91	0.388
+2DSQ	hetero_trimer	X-ray diffraction	2.8	C	P05019	69	0.402
+2DSQ	hetero_trimer	X-ray diffraction	2.8	I	P05019	69	0.402
+2DSQ	hetero_trimer	X-ray diffraction	2.8	G	P08833	93	0.402
+2DSQ	hetero_trimer	X-ray diffraction	2.8	H	P08833	93	0.402
+3D3V	hetero_pentamer	X-ray diffraction	2.8	A	P04439	274	0.806
+3D3V	hetero_pentamer	X-ray diffraction	2.8	B	P61769	98	1.0
+3D3V	hetero_pentamer	X-ray diffraction	2.8	C	Not Mapped	Not Mapped	Not Mapped
+3D3V	hetero_pentamer	X-ray diffraction	2.8	D	Not Mapped	Not Mapped	Not Mapped
+3D3V	hetero_pentamer	X-ray diffraction	2.8	E	P01850	128	0.733
+3LB6	hetero_dimer	X-ray diffraction	3.05	A	P35225	131	1.0
+3LB6	hetero_dimer	X-ray diffraction	3.05	C	Q14627	379	1.0
+3LB6	hetero_dimer	X-ray diffraction	3.05	B	P35225	131	1.0
+3LB6	hetero_dimer	X-ray diffraction	3.05	D	Q14627	379	1.0
+3W2D	hetero_trimer	X-ray diffraction	3.1	A	P01552	238	1.0
+3W2D	hetero_trimer	X-ray diffraction	3.1	L	Not Mapped	Not Mapped	Not Mapped
+3W2D	hetero_trimer	X-ray diffraction	3.1	H	Not Mapped	Not Mapped	Not Mapped
+4FZA	hetero_dimer	X-ray diffraction	3.15	A	Q9Y376	323	0.95
+4FZA	hetero_dimer	X-ray diffraction	3.15	B	Q9P289	279	0.673
+4HRN	hetero_dimer	X-ray diffraction	2.65	A	Not Mapped	Not Mapped	Not Mapped
+4HRN	hetero_dimer	X-ray diffraction	2.65	B	Not Mapped	Not Mapped	Not Mapped
+4HRN	hetero_dimer	X-ray diffraction	2.65	C	P04626	96	0.079
+4HRN	hetero_dimer	X-ray diffraction	2.65	D	P04626	96	0.079
+4HSA	hetero_trimer	X-ray diffraction	3.15	A	Q16552	121	0.924
+4HSA	hetero_trimer	X-ray diffraction	3.15	B	Q16552	121	0.924
+4HSA	hetero_trimer	X-ray diffraction	3.15	D	Q16552	121	0.924
+4HSA	hetero_trimer	X-ray diffraction	3.15	E	Q16552	121	0.924
+4HSA	hetero_trimer	X-ray diffraction	3.15	C	Q96F46	285	0.342
+4HSA	hetero_trimer	X-ray diffraction	3.15	F	Q96F46	285	0.342
+4N8V	hetero_tetramer	X-ray diffraction	2.5	G	P43631	199	0.707
+4N8V	hetero_tetramer	X-ray diffraction	2.5	I	P43631	199	0.707
+4N8V	hetero_tetramer	X-ray diffraction	2.5	A	P04439	273	0.804
+4N8V	hetero_tetramer	X-ray diffraction	2.5	D	P04439	273	0.804
+4N8V	hetero_tetramer	X-ray diffraction	2.5	B	P61769	98	1.0
+4N8V	hetero_tetramer	X-ray diffraction	2.5	E	P61769	98	1.0
+4N8V	hetero_tetramer	X-ray diffraction	2.5	C	Q76ZQ3	8	0.1
+4N8V	hetero_tetramer	X-ray diffraction	2.5	F	Q76ZQ3	8	0.1
+4O27	hetero_trimer	X-ray diffraction	3.185	A	Q9Y376	322	0.947
+4O27	hetero_trimer	X-ray diffraction	3.185	B	Q9Y6E0	279	0.632
+4O27	hetero_trimer	X-ray diffraction	3.185	C	Q9Y6E0	4	0.011
+4YEB	hetero_dimer	X-ray diffraction	3.19	A	Q80TS3	296	0.196
+4YEB	hetero_dimer	X-ray diffraction	3.19	B	Q8BGT1	357	0.576
+5UFE	hetero_dimer	X-ray diffraction	2.302	A	P01116	165	0.878
+5UFE	hetero_dimer	X-ray diffraction	2.302	B	Not Mapped	Not Mapped	Not Mapped
+1KBH	hetero_dimer	Solution NMR		A	Q9Y6Q9	46	0.033
+1KBH	hetero_dimer	Solution NMR		B	P45481	58	0.024
+1LP9	hetero_pentamer	X-ray diffraction	2.0	A	P04439	274	0.806
+1LP9	hetero_pentamer	X-ray diffraction	2.0	H	P04439	274	0.806
+1LP9	hetero_pentamer	X-ray diffraction	2.0	B	P61769	98	1.0
+1LP9	hetero_pentamer	X-ray diffraction	2.0	I	P61769	98	1.0
+1LP9	hetero_pentamer	X-ray diffraction	2.0	C	Q9NPA0	8	0.0
+1LP9	hetero_pentamer	X-ray diffraction	2.0	J	Q9NPA0	8	0.0
+1LP9	hetero_pentamer	X-ray diffraction	2.0	E	P01849	78	0.581
+1LP9	hetero_pentamer	X-ray diffraction	2.0	L	P01849	78	0.581
+1LP9	hetero_pentamer	X-ray diffraction	2.0	F	P04213	112	0.983
+1LP9	hetero_pentamer	X-ray diffraction	2.0	M	P04213	112	0.983
+1N8O	hetero_octamer	X-ray diffraction	2.0	A	P00766	12	0.053
+1N8O	hetero_octamer	X-ray diffraction	2.0	B	P00766	130	0.535
+1N8O	hetero_octamer	X-ray diffraction	2.0	C	P00766	96	0.396
+1N8O	hetero_octamer	X-ray diffraction	2.0	E	P23827	141	1.0
+1SBB	hetero_tetramer	X-ray diffraction	2.4	A	P01852	125	0.728
+1SBB	hetero_tetramer	X-ray diffraction	2.4	C	P01852	125	0.728
+1SBB	hetero_tetramer	X-ray diffraction	2.4	B	P01552	238	1.0
+1SBB	hetero_tetramer	X-ray diffraction	2.4	D	P01552	238	1.0
+2AW2	hetero_tetramer	X-ray diffraction	2.8	A	Q7Z6A9	111	0.413
+2AW2	hetero_tetramer	X-ray diffraction	2.8	X	Q7Z6A9	111	0.413
+2AW2	hetero_tetramer	X-ray diffraction	2.8	B	Q92956	103	0.424
+2AW2	hetero_tetramer	X-ray diffraction	2.8	Y	Q92956	103	0.424
+2B2X	hetero_trimer	X-ray diffraction	2.2	A	P18614	213	0.186
+2B2X	hetero_trimer	X-ray diffraction	2.2	B	P18614	213	0.186
+2B2X	hetero_trimer	X-ray diffraction	2.2	H	P01868	101	0.315
+2B2X	hetero_trimer	X-ray diffraction	2.2	I	P01868	101	0.315
+2B2X	hetero_trimer	X-ray diffraction	2.2	L	Not Mapped	Not Mapped	Not Mapped
+2B2X	hetero_trimer	X-ray diffraction	2.2	M	Not Mapped	Not Mapped	Not Mapped
+2B42	hetero_dimer	X-ray diffraction	2.5	A	Q8H0K8	380	1.0
+2B42	hetero_dimer	X-ray diffraction	2.5	B	P18429	184	1.0
+2C0L	hetero_dimer	X-ray diffraction	2.3	A	P50542	304	0.477
+2C0L	hetero_dimer	X-ray diffraction	2.3	B	P22307	121	0.223
+2HRK	hetero_dimer	X-ray diffraction	2.05	A	P46655	190	0.27
+2HRK	hetero_dimer	X-ray diffraction	2.05	B	P46672	121	0.324
+2J1K	hetero_hexamer	X-ray diffraction	2.3	A	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	B	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	G	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	J	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	K	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	O	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	P	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	T	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	V	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	X	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	Y	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	Z	P78310	127	0.35
+2J1K	hetero_hexamer	X-ray diffraction	2.3	C	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	D	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	E	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	F	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	H	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	I	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	L	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	M	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	N	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	Q	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	R	Q65914	185	0.343
+2J1K	hetero_hexamer	X-ray diffraction	2.3	S	Q65914	185	0.343
+2OOB	hetero_dimer	X-ray diffraction	1.9	A	Q13191	49	0.051
+2OOB	hetero_dimer	X-ray diffraction	1.9	B	P0CH28	75	0.11
+3KUD	hetero_dimer	X-ray diffraction	2.15	A	P01112	165	0.878
+3KUD	hetero_dimer	X-ray diffraction	2.15	B	P04049	80	0.125
+3MZW	hetero_dimer	X-ray diffraction	2.9	A	P04626	623	0.506
+3MZW	hetero_dimer	X-ray diffraction	2.9	B	P38507	57	0.123
+3WWN	hetero_tetramer	X-ray diffraction	1.85	A	O50147	268	1.0
+3WWN	hetero_tetramer	X-ray diffraction	1.85	B	Q9ZND7	53	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	A	Q9HY79	157	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	B	Q9HY79	157	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	C	Q9HY79	157	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	D	Q9HY79	157	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	E	Q9HY79	157	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	F	Q9HY79	157	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	G	Q9HY80	72	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	H	Q9HY80	72	1.0
+4E6K	hetero_36-mer	X-ray diffraction	2.0	I	Q9HY80	72	1.0
+4GNK	hetero_dimer	X-ray diffraction	4.0	A	P21279	352	0.983
+4GNK	hetero_dimer	X-ray diffraction	4.0	C	P21279	352	0.983
+4GNK	hetero_dimer	X-ray diffraction	4.0	B	Q01970	1224	0.993
+4GNK	hetero_dimer	X-ray diffraction	4.0	D	Q01970	1224	0.993
+4GNK	hetero_dimer	X-ray diffraction	4.0	E	Q01970	258	0.21
+4NZW	hetero_dimer	X-ray diffraction	3.583	A	Q9Y376	326	0.959
+4NZW	hetero_dimer	X-ray diffraction	3.583	B	O00506	292	0.688
+5UFQ	hetero_dimer	X-ray diffraction	2.199	A	P01116	165	0.878
+5UFQ	hetero_dimer	X-ray diffraction	2.199	B	P01116	165	0.878
+5UFQ	hetero_dimer	X-ray diffraction	2.199	C	Not Mapped	Not Mapped	Not Mapped
+5UFQ	hetero_dimer	X-ray diffraction	2.199	D	Not Mapped	Not Mapped	Not Mapped
+1B2S	hetero_dimer	X-ray diffraction	1.82	A	P00648	109	0.894
+1B2S	hetero_dimer	X-ray diffraction	1.82	B	P00648	109	0.894
+1B2S	hetero_dimer	X-ray diffraction	1.82	C	P00648	109	0.894
+1B2S	hetero_dimer	X-ray diffraction	1.82	D	P11540	89	1.0
+1B2S	hetero_dimer	X-ray diffraction	1.82	E	P11540	89	1.0
+1B2S	hetero_dimer	X-ray diffraction	1.82	F	P11540	89	1.0
+1B2U	hetero_dimer	X-ray diffraction	2.1	A	P00648	109	0.894
+1B2U	hetero_dimer	X-ray diffraction	2.1	B	P00648	109	0.894
+1B2U	hetero_dimer	X-ray diffraction	2.1	C	P00648	109	0.894
+1B2U	hetero_dimer	X-ray diffraction	2.1	D	P11540	89	1.0
+1B2U	hetero_dimer	X-ray diffraction	2.1	E	P11540	89	1.0
+1B2U	hetero_dimer	X-ray diffraction	2.1	F	P11540	89	1.0
+1B3S	hetero_dimer	X-ray diffraction	2.39	A	P00648	109	0.894
+1B3S	hetero_dimer	X-ray diffraction	2.39	B	P00648	109	0.894
+1B3S	hetero_dimer	X-ray diffraction	2.39	C	P00648	109	0.894
+1B3S	hetero_dimer	X-ray diffraction	2.39	D	P11540	89	1.0
+1B3S	hetero_dimer	X-ray diffraction	2.39	E	P11540	89	1.0
+1B3S	hetero_dimer	X-ray diffraction	2.39	F	P11540	89	1.0
+1EFN	hetero_tetramer	X-ray diffraction	2.5	A	P06241	58	0.11
+1EFN	hetero_tetramer	X-ray diffraction	2.5	C	P06241	58	0.11
+1EFN	hetero_tetramer	X-ray diffraction	2.5	B	P03406	151	0.738
+1EFN	hetero_tetramer	X-ray diffraction	2.5	D	P03406	151	0.738
+1FY8	hetero_dimer	X-ray diffraction	1.7	E	P00763	230	0.991
+1FY8	hetero_dimer	X-ray diffraction	1.7	I	P00974	57	0.734
+1KAC	hetero_hexamer	X-ray diffraction	2.6	A	P36711	184	0.315
+1KAC	hetero_hexamer	X-ray diffraction	2.6	B	P78310	123	0.358
+1U7F	hetero_trimer	X-ray diffraction	2.6	A	P84022	197	0.466
+1U7F	hetero_trimer	X-ray diffraction	2.6	C	P84022	197	0.466
+1U7F	hetero_trimer	X-ray diffraction	2.6	B	Q13485	238	0.433
+2A9K	hetero_dimer	X-ray diffraction	1.73	A	P11233	174	0.85
+2A9K	hetero_dimer	X-ray diffraction	1.73	B	P15879	210	1.0
+2GOX	hetero_dimer	X-ray diffraction	2.2	A	P01024	291	0.178
+2GOX	hetero_dimer	X-ray diffraction	2.2	C	P01024	291	0.178
+2GOX	hetero_dimer	X-ray diffraction	2.2	B	P68799	64	0.478
+2GOX	hetero_dimer	X-ray diffraction	2.2	D	P68799	64	0.478
+2HLE	hetero_dimer	X-ray diffraction	2.05	A	P54760	179	0.185
+2HLE	hetero_dimer	X-ray diffraction	2.05	B	P52799	137	0.451
+2I26	hetero_dimer	X-ray diffraction	2.5	N	Q8JGG7	83	0.778
+2I26	hetero_dimer	X-ray diffraction	2.5	O	Q8JGG7	83	0.778
+2I26	hetero_dimer	X-ray diffraction	2.5	P	Q8JGG7	83	0.778
+2I26	hetero_dimer	X-ray diffraction	2.5	L	P00698	128	1.0
+2I26	hetero_dimer	X-ray diffraction	2.5	M	P00698	128	1.0
+2I26	hetero_dimer	X-ray diffraction	2.5	Q	P00698	128	1.0
+2REX	hetero_dimer	X-ray diffraction	2.3	A	O43157	119	0.057
+2REX	hetero_dimer	X-ray diffraction	2.3	C	O43157	119	0.057
+2REX	hetero_dimer	X-ray diffraction	2.3	B	Q92730	195	0.845
+2REX	hetero_dimer	X-ray diffraction	2.3	D	Q92730	195	0.845
+2VIR	hetero_trimer	X-ray diffraction	3.25	A	Not Mapped	Not Mapped	Not Mapped
+2VIR	hetero_trimer	X-ray diffraction	3.25	B	Q99LC4,Q99LC4,Q99LC4	110	0.477
+2VIR	hetero_trimer	X-ray diffraction	3.25	C	P03437	281	0.513
+3BP8	hetero_tetramer	X-ray diffraction	2.85	A	P50456	405	1.0
+3BP8	hetero_tetramer	X-ray diffraction	2.85	B	P50456	405	1.0
+3BP8	hetero_tetramer	X-ray diffraction	2.85	C	P69786	74	0.157
+3BP8	hetero_tetramer	X-ray diffraction	2.85	D	P69786	74	0.157
+3G6D	hetero_trimer	X-ray diffraction	3.2	L	Not Mapped	Not Mapped	Not Mapped
+3G6D	hetero_trimer	X-ray diffraction	3.2	H	Not Mapped	Not Mapped	Not Mapped
+3G6D	hetero_trimer	X-ray diffraction	3.2	A	P35225	111	0.918
+3LZF	hetero_dodecamer	X-ray diffraction	2.8	A	Q9WFX3	326	0.596
+3LZF	hetero_dodecamer	X-ray diffraction	2.8	B	Q9WFX3	175	0.321
+3LZF	hetero_dodecamer	X-ray diffraction	2.8	H	Not Mapped	Not Mapped	Not Mapped
+3LZF	hetero_dodecamer	X-ray diffraction	2.8	L	Not Mapped	Not Mapped	Not Mapped
+3NVN	hetero_dimer	X-ray diffraction	2.26	A	Q8JL80	384	1.0
+3NVN	hetero_dimer	X-ray diffraction	2.26	B	O60486	472	0.308
+3NVQ	hetero_tetramer	X-ray diffraction	2.4	A	O75326	589	0.949
+3NVQ	hetero_tetramer	X-ray diffraction	2.4	E	O75326	589	0.949
+3NVQ	hetero_tetramer	X-ray diffraction	2.4	B	O60486	472	0.308
+3NVQ	hetero_tetramer	X-ray diffraction	2.4	F	O60486	472	0.308
+4G2V	hetero_dimer	X-ray diffraction	2.4	A	Q8VDU0	335	0.495
+4G2V	hetero_dimer	X-ray diffraction	2.4	B	Q5SYB0	37	0.024
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	A	Q9WFX3	326	0.596
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	C	Q9WFX3	326	0.596
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	E	Q9WFX3	326	0.596
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	G	Q9WFX3	326	0.596
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	I	Q9WFX3	326	0.596
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	K	Q9WFX3	326	0.596
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	B	Q9WFX3	175	0.321
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	D	Q9WFX3	175	0.321
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	F	Q9WFX3	175	0.321
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	H	Q9WFX3	175	0.321
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	J	Q9WFX3	175	0.321
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	L	Q9WFX3	175	0.321
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	M	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	O	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	Q	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	S	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	U	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	W	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	N	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	P	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	R	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	T	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	V	Not Mapped	Not Mapped	Not Mapped
+4GXU	hetero_dodecamer	X-ray diffraction	3.294	X	Not Mapped	Not Mapped	Not Mapped
+4KRL	hetero_dimer	X-ray diffraction	2.849	B	Not Mapped	Not Mapped	Not Mapped
+4KRL	hetero_dimer	X-ray diffraction	2.849	A	P00533	203	0.172
+4KRO	hetero_tetramer	X-ray diffraction	3.054	A	P00533	617	0.521
+4KRO	hetero_tetramer	X-ray diffraction	3.054	B	Not Mapped	Not Mapped	Not Mapped
+4KRO	hetero_tetramer	X-ray diffraction	3.054	C	Not Mapped	Not Mapped	Not Mapped
+4KRO	hetero_tetramer	X-ray diffraction	3.054	D	Not Mapped	Not Mapped	Not Mapped
+4MNQ	hetero_pentamer	X-ray diffraction	2.742	A	P04439	274	0.806
+4MNQ	hetero_pentamer	X-ray diffraction	2.742	B	P61769	98	1.0
+4MNQ	hetero_pentamer	X-ray diffraction	2.742	C	O14746	8	0.008
+4MNQ	hetero_pentamer	X-ray diffraction	2.742	D	H2RG00,K7N5N2	88	0.43
+4MNQ	hetero_pentamer	X-ray diffraction	2.742	E	P01850	128	0.733
+4RA0	hetero_tetramer	X-ray diffraction	3.07	A	Q14393	400	0.619
+4RA0	hetero_tetramer	X-ray diffraction	3.07	B	Q14393	400	0.619
+4RA0	hetero_tetramer	X-ray diffraction	3.07	C	P30530	194	0.224
+4RA0	hetero_tetramer	X-ray diffraction	3.07	D	P30530	194	0.224
+4U6H	hetero_trimer	X-ray diffraction	3.1	A	Not Mapped	Not Mapped	Not Mapped
+4U6H	hetero_trimer	X-ray diffraction	3.1	C	Not Mapped	Not Mapped	Not Mapped
+4U6H	hetero_trimer	X-ray diffraction	3.1	B	Not Mapped	Not Mapped	Not Mapped
+4U6H	hetero_trimer	X-ray diffraction	3.1	D	Not Mapped	Not Mapped	Not Mapped
+4U6H	hetero_trimer	X-ray diffraction	3.1	E	P07612	183	0.736
+4U6H	hetero_trimer	X-ray diffraction	3.1	J	P07612	183	0.736
+4WND	hetero_dimer	X-ray diffraction	1.5	A	P81274	401	0.588
+4WND	hetero_dimer	X-ray diffraction	1.5	B	Q14CM0	47	0.036
+4Y61	hetero_dimer	X-ray diffraction	3.358	A	Q64487	390	0.207
+4Y61	hetero_dimer	X-ray diffraction	3.358	B	Q810C0	265	0.297
+4ZS6	hetero_trimer	X-ray diffraction	3.166	D	Not Mapped	Not Mapped	Not Mapped
+4ZS6	hetero_trimer	X-ray diffraction	3.166	L	Not Mapped	Not Mapped	Not Mapped
+4ZS6	hetero_trimer	X-ray diffraction	3.166	C	Not Mapped	Not Mapped	Not Mapped
+4ZS6	hetero_trimer	X-ray diffraction	3.166	H	Not Mapped	Not Mapped	Not Mapped
+4ZS6	hetero_trimer	X-ray diffraction	3.166	A	W6A0A7	222	0.165
+4ZS6	hetero_trimer	X-ray diffraction	3.166	B	W6A0A7	222	0.165
+5CYK	hetero_dimer	X-ray diffraction	3.0	A	G0SFB5	494	1.0
+5CYK	hetero_dimer	X-ray diffraction	3.0	B	G0SCK6	368	0.461
+1CSO	hetero_dimer	X-ray diffraction	1.9	E	P00777	184	0.709
+1CSO	hetero_dimer	X-ray diffraction	1.9	I	P68390	50	0.276
+1CT0	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+1CT0	hetero_dimer	X-ray diffraction	1.8	I	P68390	50	0.276
+1CT2	hetero_dimer	X-ray diffraction	1.65	E	P00777	184	0.709
+1CT2	hetero_dimer	X-ray diffraction	1.65	I	P68390	50	0.276
+1CT4	hetero_dimer	X-ray diffraction	1.6	E	P00777	184	0.709
+1CT4	hetero_dimer	X-ray diffraction	1.6	I	P68390	50	0.276
+1CZ8	hetero_hexamer	X-ray diffraction	2.4	V	P15692	93	0.238
+1CZ8	hetero_hexamer	X-ray diffraction	2.4	W	P15692	93	0.238
+1CZ8	hetero_hexamer	X-ray diffraction	2.4	L	Not Mapped	Not Mapped	Not Mapped
+1CZ8	hetero_hexamer	X-ray diffraction	2.4	X	Not Mapped	Not Mapped	Not Mapped
+1CZ8	hetero_hexamer	X-ray diffraction	2.4	H	Not Mapped	Not Mapped	Not Mapped
+1CZ8	hetero_hexamer	X-ray diffraction	2.4	Y	Not Mapped	Not Mapped	Not Mapped
+1F5R	hetero_dimer	X-ray diffraction	1.65	A	P00763	229	0.991
+1F5R	hetero_dimer	X-ray diffraction	1.65	I	P00974	64	0.823
+1FR2	hetero_dimer	X-ray diffraction	1.6	A	P13479	85	1.0
+1FR2	hetero_dimer	X-ray diffraction	1.6	B	P09883	132	0.229
+1GL0	hetero_dimer	X-ray diffraction	3.0	E	P00766	244	1.0
+1GL0	hetero_dimer	X-ray diffraction	3.0	I	P80060	34	0.479
+1GL1	hetero_dimer	X-ray diffraction	2.1	A	P00766	244	1.0
+1GL1	hetero_dimer	X-ray diffraction	2.1	B	P00766	244	1.0
+1GL1	hetero_dimer	X-ray diffraction	2.1	C	P00766	244	1.0
+1GL1	hetero_dimer	X-ray diffraction	2.1	I	P80060	35	0.493
+1GL1	hetero_dimer	X-ray diffraction	2.1	J	P80060	35	0.493
+1GL1	hetero_dimer	X-ray diffraction	2.1	K	P80060	35	0.493
+1GRN	hetero_dimer	X-ray diffraction	2.1	A	P60953	190	1.0
+1GRN	hetero_dimer	X-ray diffraction	2.1	B	Q07960	202	0.462
+1HE8	hetero_dimer	X-ray diffraction	3.0	A	P48736	958	0.87
+1HE8	hetero_dimer	X-ray diffraction	3.0	B	P01112	165	0.878
+1KIP	hetero_trimer	X-ray diffraction	2.1	A	P01635	94	1.0
+1KIP	hetero_trimer	X-ray diffraction	2.1	B	Not Mapped	Not Mapped	Not Mapped
+1KIP	hetero_trimer	X-ray diffraction	2.1	C	P00698	128	1.0
+1KIQ	hetero_trimer	X-ray diffraction	1.85	A	P01635	94	1.0
+1KIQ	hetero_trimer	X-ray diffraction	1.85	B	Not Mapped	Not Mapped	Not Mapped
+1KIQ	hetero_trimer	X-ray diffraction	1.85	C	P00698	128	1.0
+1KIR	hetero_trimer	X-ray diffraction	2.0	A	Not Mapped	Not Mapped	Not Mapped
+1KIR	hetero_trimer	X-ray diffraction	2.0	B	P01820	95	1.0
+1KIR	hetero_trimer	X-ray diffraction	2.0	C	P00698	128	1.0
+1M9E	hetero_dimer	X-ray diffraction	1.72	A	P62937	163	0.994
+1M9E	hetero_dimer	X-ray diffraction	1.72	B	P62937	163	0.994
+1M9E	hetero_dimer	X-ray diffraction	1.72	C	Q72497	145	0.292
+1M9E	hetero_dimer	X-ray diffraction	1.72	D	Q72497	145	0.292
+1P69	hetero_dimer	X-ray diffraction	3.1	A	P36711	184	0.315
+1P69	hetero_dimer	X-ray diffraction	3.1	B	P78310	122	0.355
+1P6A	hetero_dimer	X-ray diffraction	2.9	A	P36711	184	0.315
+1P6A	hetero_dimer	X-ray diffraction	2.9	B	P78310	122	0.355
+1QSE	hetero_pentamer	X-ray diffraction	2.8	A	P04439	273	0.804
+1QSE	hetero_pentamer	X-ray diffraction	2.8	B	P61769	99	1.0
+1QSE	hetero_pentamer	X-ray diffraction	2.8	C	Not Mapped	Not Mapped	Not Mapped
+1QSE	hetero_pentamer	X-ray diffraction	2.8	D	Not Mapped	Not Mapped	Not Mapped
+1QSE	hetero_pentamer	X-ray diffraction	2.8	E	Not Mapped	Not Mapped	Not Mapped
+1REW	hetero_tetramer	X-ray diffraction	1.863	A	P12643	113	0.306
+1REW	hetero_tetramer	X-ray diffraction	1.863	B	P12643	113	0.306
+1REW	hetero_tetramer	X-ray diffraction	1.863	C	P36894	128	0.253
+1REW	hetero_tetramer	X-ray diffraction	1.863	D	P36894	128	0.253
+1S0W	hetero_dimer	X-ray diffraction	2.3	A	P62593	262	1.0
+1S0W	hetero_dimer	X-ray diffraction	2.3	B	P62593	262	1.0
+1S0W	hetero_dimer	X-ray diffraction	2.3	C	P35804	164	1.0
+1S0W	hetero_dimer	X-ray diffraction	2.3	D	P35804	164	1.0
+1SBN	hetero_dimer	X-ray diffraction	2.1	E	P00782	274	0.781
+1SBN	hetero_dimer	X-ray diffraction	2.1	I	P01051	69	1.0
+1SGD	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+1SGD	hetero_dimer	X-ray diffraction	1.8	I	P68390	50	0.276
+1SGE	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+1SGE	hetero_dimer	X-ray diffraction	1.8	I	P68390	50	0.276
+1SGN	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+1SGN	hetero_dimer	X-ray diffraction	1.8	I	P68390	50	0.276
+1SGP	hetero_dimer	X-ray diffraction	1.4	E	P00777	184	0.709
+1SGP	hetero_dimer	X-ray diffraction	1.4	I	P68390	50	0.276
+1SGQ	hetero_dimer	X-ray diffraction	1.9	E	P00777	184	0.709
+1SGQ	hetero_dimer	X-ray diffraction	1.9	I	P68390	50	0.276
+1SGY	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+1SGY	hetero_dimer	X-ray diffraction	1.8	I	P68390	50	0.276
+1SIB	hetero_dimer	X-ray diffraction	2.4	E	P00782	274	0.781
+1SIB	hetero_dimer	X-ray diffraction	2.4	I	P01051	69	1.0
+1TM3	hetero_dimer	X-ray diffraction	1.57	E	P00782	274	0.781
+1TM3	hetero_dimer	X-ray diffraction	1.57	I	Q40059	63	0.762
+1TM4	hetero_dimer	X-ray diffraction	1.7	E	P00782	274	0.781
+1TM4	hetero_dimer	X-ray diffraction	1.7	I	Q40059	63	0.762
+1TM5	hetero_dimer	X-ray diffraction	1.45	E	P00782	274	0.781
+1TM5	hetero_dimer	X-ray diffraction	1.45	I	Q40059	63	0.762
+1TM7	hetero_dimer	X-ray diffraction	1.59	E	P00782	274	0.781
+1TM7	hetero_dimer	X-ray diffraction	1.59	I	Q40059	63	0.762
+1TMG	hetero_dimer	X-ray diffraction	1.67	E	P00782	274	0.781
+1TMG	hetero_dimer	X-ray diffraction	1.67	I	Q40059	63	0.762
+1TO1	hetero_dimer	X-ray diffraction	1.68	E	P00782	274	0.781
+1TO1	hetero_dimer	X-ray diffraction	1.68	I	Q40059	63	0.762
+1X1W	hetero_dimer	X-ray diffraction	2.1	A	P00648	109	0.894
+1X1W	hetero_dimer	X-ray diffraction	2.1	B	P00648	109	0.894
+1X1W	hetero_dimer	X-ray diffraction	2.1	C	P00648	109	0.894
+1X1W	hetero_dimer	X-ray diffraction	2.1	D	P11540	89	1.0
+1X1W	hetero_dimer	X-ray diffraction	2.1	E	P11540	89	1.0
+1X1W	hetero_dimer	X-ray diffraction	2.1	F	P11540	89	1.0
+1X1X	hetero_dimer	X-ray diffraction	2.3	A	P00648	109	0.894
+1X1X	hetero_dimer	X-ray diffraction	2.3	B	P00648	109	0.894
+1X1X	hetero_dimer	X-ray diffraction	2.3	C	P00648	109	0.894
+1X1X	hetero_dimer	X-ray diffraction	2.3	D	P11540	88	0.989
+1X1X	hetero_dimer	X-ray diffraction	2.3	E	P11540	88	0.989
+1X1X	hetero_dimer	X-ray diffraction	2.3	F	P11540	88	0.989
+1Y1K	hetero_dimer	X-ray diffraction	1.56	E	P00782	274	0.781
+1Y1K	hetero_dimer	X-ray diffraction	1.56	I	Q40059	63	0.762
+1Y33	hetero_dimer	X-ray diffraction	1.8	E	P00782	274	0.781
+1Y33	hetero_dimer	X-ray diffraction	1.8	I	Q40059	63	0.762
+1Y34	hetero_dimer	X-ray diffraction	1.55	E	P00782	274	0.781
+1Y34	hetero_dimer	X-ray diffraction	1.55	I	Q40059	63	0.762
+1Y3B	hetero_dimer	X-ray diffraction	1.8	E	P00782	274	0.781
+1Y3B	hetero_dimer	X-ray diffraction	1.8	I	Q40059	63	0.762
+1Y3C	hetero_dimer	X-ray diffraction	1.69	E	P00782	274	0.781
+1Y3C	hetero_dimer	X-ray diffraction	1.69	I	Q40059	63	0.762
+1Y3D	hetero_dimer	X-ray diffraction	1.8	E	P00782	274	0.781
+1Y3D	hetero_dimer	X-ray diffraction	1.8	I	Q40059	63	0.762
+1Y48	hetero_dimer	X-ray diffraction	1.84	E	P00782	274	0.781
+1Y48	hetero_dimer	X-ray diffraction	1.84	I	Q40059	63	0.762
+1YCS	hetero_dimer	X-ray diffraction	2.2	A	P04637	198	0.506
+1YCS	hetero_dimer	X-ray diffraction	2.2	B	Q13625,Q13625	202	0.21
+1YQV	hetero_trimer	X-ray diffraction	1.7	L	Not Mapped	Not Mapped	Not Mapped
+1YQV	hetero_trimer	X-ray diffraction	1.7	H	Not Mapped	Not Mapped	Not Mapped
+1YQV	hetero_trimer	X-ray diffraction	1.7	Y	P00698	128	1.0
+2B0Z	hetero_dimer	X-ray diffraction	2.7	A	P00431	293	0.814
+2B0Z	hetero_dimer	X-ray diffraction	2.7	B	P00044	107	0.991
+2B10	hetero_dimer	X-ray diffraction	2.8	A	P00431	293	0.814
+2B10	hetero_dimer	X-ray diffraction	2.8	C	P00431	293	0.814
+2B10	hetero_dimer	X-ray diffraction	2.8	B	P00044	107	0.991
+2B10	hetero_dimer	X-ray diffraction	2.8	D	P00044	107	0.991
+2B11	hetero_dimer	X-ray diffraction	2.3	A	P00431	293	0.814
+2B11	hetero_dimer	X-ray diffraction	2.3	C	P00431	293	0.814
+2B11	hetero_dimer	X-ray diffraction	2.3	B	P00044	107	0.991
+2B11	hetero_dimer	X-ray diffraction	2.3	D	P00044	107	0.991
+2B12	hetero_dimer	X-ray diffraction	3.02	A	P00431	293	0.814
+2B12	hetero_dimer	X-ray diffraction	3.02	B	P00044	107	0.991
+2BNQ	hetero_pentamer	X-ray diffraction	1.7	A	P04439	274	0.806
+2BNQ	hetero_pentamer	X-ray diffraction	1.7	B	P61769	98	1.0
+2BNQ	hetero_pentamer	X-ray diffraction	1.7	C	P78358	7	0.044
+2BNQ	hetero_pentamer	X-ray diffraction	1.7	D	P01848,A0A0B4J279	91	0.989
+2BNQ	hetero_pentamer	X-ray diffraction	1.7	E	P01850,A0A0K0K1A5	92	1.0
+2E7L	hetero_tetramer	X-ray diffraction	2.5	A	A2NTU7	111	0.452
+2E7L	hetero_tetramer	X-ray diffraction	2.5	B	A2NTU7	111	0.452
+2E7L	hetero_tetramer	X-ray diffraction	2.5	C	A2NTY6	109	0.956
+2E7L	hetero_tetramer	X-ray diffraction	2.5	D	A2NTY6	109	0.956
+2E7L	hetero_tetramer	X-ray diffraction	2.5	E	P01897	180	0.536
+2E7L	hetero_tetramer	X-ray diffraction	2.5	F	P01897	180	0.536
+2E7L	hetero_tetramer	X-ray diffraction	2.5	P	Not Mapped	Not Mapped	Not Mapped
+2E7L	hetero_tetramer	X-ray diffraction	2.5	Q	Not Mapped	Not Mapped	Not Mapped
+2G2W	hetero_dimer	X-ray diffraction	1.8	A	P0AD64	264	1.0
+2G2W	hetero_dimer	X-ray diffraction	1.8	B	P35804	164	1.0
+2GYK	hetero_dimer	X-ray diffraction	1.6	A	P13479	85	1.0
+2GYK	hetero_dimer	X-ray diffraction	1.6	E	P13479	85	1.0
+2GYK	hetero_dimer	X-ray diffraction	1.6	B	P09883	132	0.229
+2GYK	hetero_dimer	X-ray diffraction	1.6	F	P09883	132	0.229
+2J12	hetero_hexamer	X-ray diffraction	1.5	A	Q80S15	193	0.924
+2J12	hetero_hexamer	X-ray diffraction	1.5	B	P78310	127	0.35
+2J8U	hetero_pentamer	X-ray diffraction	2.88	A	P04439	274	0.806
+2J8U	hetero_pentamer	X-ray diffraction	2.88	H	P04439	274	0.806
+2J8U	hetero_pentamer	X-ray diffraction	2.88	B	P61769	98	1.0
+2J8U	hetero_pentamer	X-ray diffraction	2.88	I	P61769	98	1.0
+2J8U	hetero_pentamer	X-ray diffraction	2.88	C	Q9NPA0	8	0.0
+2J8U	hetero_pentamer	X-ray diffraction	2.88	J	Q9NPA0	8	0.0
+2J8U	hetero_pentamer	X-ray diffraction	2.88	E	P01849	78	0.581
+2J8U	hetero_pentamer	X-ray diffraction	2.88	L	P01849	78	0.581
+2J8U	hetero_pentamer	X-ray diffraction	2.88	F	P04213	112	0.983
+2J8U	hetero_pentamer	X-ray diffraction	2.88	M	P04213	112	0.983
+2JCC	hetero_pentamer	X-ray diffraction	2.5	A	P04439	274	0.806
+2JCC	hetero_pentamer	X-ray diffraction	2.5	H	P04439	274	0.806
+2JCC	hetero_pentamer	X-ray diffraction	2.5	B	P61769	98	1.0
+2JCC	hetero_pentamer	X-ray diffraction	2.5	I	P61769	98	1.0
+2JCC	hetero_pentamer	X-ray diffraction	2.5	C	Q9NPA0	8	0.0
+2JCC	hetero_pentamer	X-ray diffraction	2.5	J	Q9NPA0	8	0.0
+2JCC	hetero_pentamer	X-ray diffraction	2.5	E	P01849	78	0.581
+2JCC	hetero_pentamer	X-ray diffraction	2.5	L	P01849	78	0.581
+2JCC	hetero_pentamer	X-ray diffraction	2.5	F	Not Mapped	Not Mapped	Not Mapped
+2JCC	hetero_pentamer	X-ray diffraction	2.5	M	Not Mapped	Not Mapped	Not Mapped
+2NU0	hetero_dimer	X-ray diffraction	1.95	E	P00777	184	0.709
+2NU0	hetero_dimer	X-ray diffraction	1.95	I	P68436	50	0.911
+2NU1	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+2NU1	hetero_dimer	X-ray diffraction	1.8	I	P68436	50	0.911
+2NU2	hetero_dimer	X-ray diffraction	1.65	E	P00777	184	0.709
+2NU2	hetero_dimer	X-ray diffraction	1.65	I	P68390	50	0.276
+2NU4	hetero_dimer	X-ray diffraction	1.75	E	P00777	184	0.709
+2NU4	hetero_dimer	X-ray diffraction	1.75	I	P68390	50	0.276
+2OI9	hetero_tetramer	X-ray diffraction	2.35	A	P01897	178	0.53
+2OI9	hetero_tetramer	X-ray diffraction	2.35	B	P01738	109	1.0
+2OI9	hetero_tetramer	X-ray diffraction	2.35	C	A2NTY6	109	0.956
+2OI9	hetero_tetramer	X-ray diffraction	2.35	Q	Not Mapped	Not Mapped	Not Mapped
+2P5E	hetero_pentamer	X-ray diffraction	1.89	A	P04439	274	0.806
+2P5E	hetero_pentamer	X-ray diffraction	1.89	B	P61769	98	1.0
+2P5E	hetero_pentamer	X-ray diffraction	1.89	C	P78358	8	0.05
+2P5E	hetero_pentamer	X-ray diffraction	1.89	D	P01848	78	0.564
+2P5E	hetero_pentamer	X-ray diffraction	1.89	E	Not Mapped	Not Mapped	Not Mapped
+2SGP	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+2SGP	hetero_dimer	X-ray diffraction	1.8	I	P68390	50	0.276
+2SGQ	hetero_dimer	X-ray diffraction	1.8	E	P00777	184	0.709
+2SGQ	hetero_dimer	X-ray diffraction	1.8	I	P68390	50	0.276
+2UWE	hetero_pentamer	X-ray diffraction	2.4	A	P04439	274	0.806
+2UWE	hetero_pentamer	X-ray diffraction	2.4	H	P04439	274	0.806
+2UWE	hetero_pentamer	X-ray diffraction	2.4	B	P61769	98	1.0
+2UWE	hetero_pentamer	X-ray diffraction	2.4	I	P61769	98	1.0
+2UWE	hetero_pentamer	X-ray diffraction	2.4	C	Q9NPA0	8	0.0
+2UWE	hetero_pentamer	X-ray diffraction	2.4	J	Q9NPA0	8	0.0
+2UWE	hetero_pentamer	X-ray diffraction	2.4	E	Not Mapped	Not Mapped	Not Mapped
+2UWE	hetero_pentamer	X-ray diffraction	2.4	L	Not Mapped	Not Mapped	Not Mapped
+2UWE	hetero_pentamer	X-ray diffraction	2.4	F	P04213	112	0.983
+2UWE	hetero_pentamer	X-ray diffraction	2.4	M	P04213	112	0.983
+2VIS	hetero_trimer	X-ray diffraction	3.25	A	Not Mapped	Not Mapped	Not Mapped
+2VIS	hetero_trimer	X-ray diffraction	3.25	B	Q99LC4,Q99LC4,Q99LC4	110	0.477
+2VIS	hetero_trimer	X-ray diffraction	3.25	C	P03437	281	0.513
+2VLN	hetero_dimer	X-ray diffraction	1.6	A	P13479	85	1.0
+2VLN	hetero_dimer	X-ray diffraction	1.6	B	P09883	132	0.229
+2VLO	hetero_dimer	X-ray diffraction	1.8	A	P13479	85	1.0
+2VLO	hetero_dimer	X-ray diffraction	1.8	B	P09883	132	0.229
+2VLP	hetero_dimer	X-ray diffraction	2.0	A	P13479	85	1.0
+2VLP	hetero_dimer	X-ray diffraction	2.0	B	P09883	132	0.229
+2VLQ	hetero_dimer	X-ray diffraction	1.6	A	P13479	85	1.0
+2VLQ	hetero_dimer	X-ray diffraction	1.6	B	P09883	132	0.229
+2VLR	hetero_pentamer	X-ray diffraction	2.3	A	P04439	274	0.806
+2VLR	hetero_pentamer	X-ray diffraction	2.3	F	P04439	274	0.806
+2VLR	hetero_pentamer	X-ray diffraction	2.3	B	P61769	98	1.0
+2VLR	hetero_pentamer	X-ray diffraction	2.3	G	P61769	98	1.0
+2VLR	hetero_pentamer	X-ray diffraction	2.3	C	P03485	8	0.036
+2VLR	hetero_pentamer	X-ray diffraction	2.3	H	P03485	8	0.036
+2VLR	hetero_pentamer	X-ray diffraction	2.3	D	P01848	88	0.636
+2VLR	hetero_pentamer	X-ray diffraction	2.3	I	P01848	88	0.636
+2VLR	hetero_pentamer	X-ray diffraction	2.3	E	P01850	128	0.733
+2VLR	hetero_pentamer	X-ray diffraction	2.3	J	P01850	128	0.733
+3BTD	hetero_dimer	X-ray diffraction	1.9	E	P00760	222	0.974
+3BTD	hetero_dimer	X-ray diffraction	1.9	I	P00974	57	0.734
+3BTE	hetero_dimer	X-ray diffraction	1.85	E	P00760	222	0.974
+3BTE	hetero_dimer	X-ray diffraction	1.85	I	P00974	57	0.734
+3BTF	hetero_dimer	X-ray diffraction	1.8	E	P00760	222	0.974
+3BTF	hetero_dimer	X-ray diffraction	1.8	I	P00974	57	0.734
+3BTG	hetero_dimer	X-ray diffraction	1.9	E	P00760	222	0.974
+3BTG	hetero_dimer	X-ray diffraction	1.9	I	P00974	57	0.734
+3BTH	hetero_dimer	X-ray diffraction	1.75	E	P00760	222	0.974
+3BTH	hetero_dimer	X-ray diffraction	1.75	I	P00974	57	0.734
+3BTM	hetero_dimer	X-ray diffraction	1.8	E	P00760	222	0.974
+3BTM	hetero_dimer	X-ray diffraction	1.8	I	P00974	57	0.734
+3BTQ	hetero_dimer	X-ray diffraction	1.9	E	P00760	222	0.974
+3BTQ	hetero_dimer	X-ray diffraction	1.9	I	P00974	57	0.734
+3BTT	hetero_dimer	X-ray diffraction	1.9	E	P00760	222	0.974
+3BTT	hetero_dimer	X-ray diffraction	1.9	I	P00974	57	0.734
+3BTW	hetero_dimer	X-ray diffraction	2.05	E	P00760	222	0.974
+3BTW	hetero_dimer	X-ray diffraction	2.05	I	P00974	57	0.734
+3D5R	hetero_dimer	X-ray diffraction	2.1	A	P01024	291	0.178
+3D5R	hetero_dimer	X-ray diffraction	2.1	B	P01024	291	0.178
+3D5R	hetero_dimer	X-ray diffraction	2.1	C	A6QG59	64	0.478
+3D5R	hetero_dimer	X-ray diffraction	2.1	D	A6QG59	64	0.478
+3D5S	hetero_dimer	X-ray diffraction	2.3	A	P01024	291	0.178
+3D5S	hetero_dimer	X-ray diffraction	2.3	B	P01024	291	0.178
+3D5S	hetero_dimer	X-ray diffraction	2.3	C	A6QG59	64	0.478
+3D5S	hetero_dimer	X-ray diffraction	2.3	D	A6QG59	64	0.478
+3EG5	hetero_tetramer	X-ray diffraction	2.7	A	P60766	177	0.932
+3EG5	hetero_tetramer	X-ray diffraction	2.7	C	P60766	177	0.932
+3EG5	hetero_tetramer	X-ray diffraction	2.7	B	O08808	382	0.305
+3EG5	hetero_tetramer	X-ray diffraction	2.7	D	O08808	382	0.305
+3H9S	hetero_pentamer	X-ray diffraction	2.7	A	P04439	274	0.806
+3H9S	hetero_pentamer	X-ray diffraction	2.7	B	P61769	98	1.0
+3H9S	hetero_pentamer	X-ray diffraction	2.7	C	P38110	8	0.003
+3H9S	hetero_pentamer	X-ray diffraction	2.7	D	Not Mapped	Not Mapped	Not Mapped
+3H9S	hetero_pentamer	X-ray diffraction	2.7	E	Not Mapped	Not Mapped	Not Mapped
+3L5X	hetero_trimer	X-ray diffraction	1.9	L	Not Mapped	Not Mapped	Not Mapped
+3L5X	hetero_trimer	X-ray diffraction	1.9	H	Not Mapped	Not Mapped	Not Mapped
+3L5X	hetero_trimer	X-ray diffraction	1.9	A	P35225	111	0.918
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	A	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	C	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	E	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	G	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	I	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	K	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	M	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	O	Q00987	84	0.173
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	B	Not Mapped	Not Mapped	Not Mapped
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	D	Not Mapped	Not Mapped	Not Mapped
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	F	Not Mapped	Not Mapped	Not Mapped
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	H	Not Mapped	Not Mapped	Not Mapped
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	J	Not Mapped	Not Mapped	Not Mapped
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	L	Not Mapped	Not Mapped	Not Mapped
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	N	Not Mapped	Not Mapped	Not Mapped
+3LNZ	hetero_tetramer	X-ray diffraction	1.95	P	Not Mapped	Not Mapped	Not Mapped
+3N06	hetero_dimer	X-ray diffraction	2.0	A	P01236	184	0.93
+3N06	hetero_dimer	X-ray diffraction	2.0	B	P16471	209	0.351
+3N0P	hetero_dimer	X-ray diffraction	2.1	A	P01236	184	0.93
+3N0P	hetero_dimer	X-ray diffraction	2.1	B	P16471	209	0.351
+3N4I	hetero_dimer	X-ray diffraction	1.56	A	P0AD64	264	1.0
+3N4I	hetero_dimer	X-ray diffraction	1.56	B	P35804	164	1.0
+3NCB	hetero_dimer	X-ray diffraction	2.1	A	P01236	184	0.93
+3NCB	hetero_dimer	X-ray diffraction	2.1	B	P16471	209	0.351
+3NCC	hetero_dimer	X-ray diffraction	2.5	A	P01236	184	0.93
+3NCC	hetero_dimer	X-ray diffraction	2.5	B	P16471	209	0.351
+3PWP	hetero_pentamer	X-ray diffraction	2.69	A	P04439	274	0.806
+3PWP	hetero_pentamer	X-ray diffraction	2.69	B	P61769	98	1.0
+3PWP	hetero_pentamer	X-ray diffraction	2.69	C	Not Mapped	Not Mapped	Not Mapped
+3PWP	hetero_pentamer	X-ray diffraction	2.69	D	P01848	88	0.636
+3PWP	hetero_pentamer	X-ray diffraction	2.69	E	Not Mapped	Not Mapped	Not Mapped
+3Q3J	hetero_octamer	X-ray diffraction	1.971	A	O75051	110	0.06
+3Q3J	hetero_octamer	X-ray diffraction	1.971	B	Q92730	195	0.845
+3QFJ	hetero_pentamer	X-ray diffraction	2.29	A	P04439	274	0.806
+3QFJ	hetero_pentamer	X-ray diffraction	2.29	B	P61769	98	1.0
+3QFJ	hetero_pentamer	X-ray diffraction	2.29	C	Not Mapped	Not Mapped	Not Mapped
+3QFJ	hetero_pentamer	X-ray diffraction	2.29	D	Not Mapped	Not Mapped	Not Mapped
+3QFJ	hetero_pentamer	X-ray diffraction	2.29	E	Not Mapped	Not Mapped	Not Mapped
+3RF3	hetero_dimer	X-ray diffraction	1.61	A	P18206	257	0.228
+3RF3	hetero_dimer	X-ray diffraction	1.61	B	P18206	257	0.228
+3RF3	hetero_dimer	X-ray diffraction	1.61	C	P18010	24	0.039
+3RF3	hetero_dimer	X-ray diffraction	1.61	D	P18010	24	0.039
+3TGK	hetero_dimer	X-ray diffraction	1.7	E	P00763	229	0.991
+3TGK	hetero_dimer	X-ray diffraction	1.7	I	P00974	64	0.823
+3U82	hetero_dimer	X-ray diffraction	3.164	A	Q69091	284	0.772
+3U82	hetero_dimer	X-ray diffraction	3.164	B	Q15223	305	0.626
+3UII	hetero_tetramer	X-ray diffraction	2.6	A	O15392	141	1.0
+3UII	hetero_tetramer	X-ray diffraction	2.6	B	O15392	141	1.0
+3UII	hetero_tetramer	X-ray diffraction	2.6	P	P68431	9	0.074
+3UII	hetero_tetramer	X-ray diffraction	2.6	Q	P68431	9	0.074
+4EKD	hetero_dimer	X-ray diffraction	2.71	A	P21279	341	0.953
+4EKD	hetero_dimer	X-ray diffraction	2.71	B	P41220	131	0.626
+4JFD	hetero_pentamer	X-ray diffraction	2.46	A	P04439	274	0.806
+4JFD	hetero_pentamer	X-ray diffraction	2.46	B	P61769	98	1.0
+4JFD	hetero_pentamer	X-ray diffraction	2.46	C	Not Mapped	Not Mapped	Not Mapped
+4JFD	hetero_pentamer	X-ray diffraction	2.46	D	P01848	85	0.614
+4JFD	hetero_pentamer	X-ray diffraction	2.46	E	P01850	128	0.733
+4JFE	hetero_pentamer	X-ray diffraction	2.7	A	P04439	274	0.806
+4JFE	hetero_pentamer	X-ray diffraction	2.7	B	P61769	98	1.0
+4JFE	hetero_pentamer	X-ray diffraction	2.7	C	Not Mapped	Not Mapped	Not Mapped
+4JFE	hetero_pentamer	X-ray diffraction	2.7	D	P01848	86	0.621
+4JFE	hetero_pentamer	X-ray diffraction	2.7	E	P01850	128	0.733
+4JGH	hetero_tetramer	X-ray diffraction	3.0	A	O14508	166	0.843
+4JGH	hetero_tetramer	X-ray diffraction	3.0	B	P62869	117	1.0
+4JGH	hetero_tetramer	X-ray diffraction	3.0	C	P83940	95	0.857
+4JGH	hetero_tetramer	X-ray diffraction	3.0	D	Q93034	376	0.483
+4KRP	hetero_tetramer	X-ray diffraction	2.823	A	P00533,P00533	4	0.521
+4KRP	hetero_tetramer	X-ray diffraction	2.823	B	Not Mapped	Not Mapped	Not Mapped
+4KRP	hetero_tetramer	X-ray diffraction	2.823	C	Not Mapped	Not Mapped	Not Mapped
+4KRP	hetero_tetramer	X-ray diffraction	2.823	D	Not Mapped	Not Mapped	Not Mapped
+4LRX	hetero_tetramer	X-ray diffraction	3.25	A	P76015	355	1.0
+4LRX	hetero_tetramer	X-ray diffraction	3.25	B	P76015	355	1.0
+4LRX	hetero_tetramer	X-ray diffraction	3.25	C	P76016	317	0.498
+4LRX	hetero_tetramer	X-ray diffraction	3.25	D	P76016	317	0.498
+4MYW	hetero_dimer	X-ray diffraction	3.189	A	P03172	284	0.774
+4MYW	hetero_dimer	X-ray diffraction	3.189	C	P03172	284	0.774
+4MYW	hetero_dimer	X-ray diffraction	3.189	B	Q15223	305	0.626
+4MYW	hetero_dimer	X-ray diffraction	3.189	D	Q15223	305	0.626
